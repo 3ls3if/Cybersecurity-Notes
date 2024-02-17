@@ -22,11 +22,9 @@ description: Quick Guide To Ethical Hacking and Pen-Testing.
 
 
 
-## Connect With Me
+# Connect With Me
 
-{% embed url="https://www.linkedin.com/in/iamrohandas/" %}
-LinkedIn
-{% endembed %}
+**[LinkedIn]**(https://www.linkedin.com/in/iamrohandas/)
 
 ## Disclaimer
 
