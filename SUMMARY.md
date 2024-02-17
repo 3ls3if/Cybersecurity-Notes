@@ -254,4 +254,8 @@
     * [🐧 Bash](ethical-hacking-and-pen-testing-notes/scripting/bash.md)
     * [🐪 Perl](ethical-hacking-and-pen-testing-notes/scripting/perl.md)
     * [🐘 PHP](ethical-hacking-and-pen-testing-notes/scripting/php.md)
+  * [🐉 Reverse Engineering & Malware Analysis](readme/reverse-engineering-and-malware-analysis/README.md)
+    * [1⃣ Disassembly and Disassembler](readme/reverse-engineering-and-malware-analysis/disassembly-and-disassembler.md)
+    * [2⃣ Binary Analysis](readme/reverse-engineering-and-malware-analysis/binary-analysis.md)
+    * [🐧 Linux ELF Format](readme/reverse-engineering-and-malware-analysis/linux-elf-format.md)
   * [🪖 Digital Forensics](ethical-hacking-and-pen-testing-notes/digital-forensics-1.md)
