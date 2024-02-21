@@ -5,6 +5,7 @@
     * [Data Breach and Leaks Resources](ethical-hacking-and-pen-testing-notes/osint/data-breach-and-leaks-resources.md)
     * [OSINT Tools and Resources](ethical-hacking-and-pen-testing-notes/osint/osint-tools-and-resources.md)
     * [Shodan](ethical-hacking-and-pen-testing-notes/osint/shodan.md)
+    * [Creepy](readme/osint/creepy.md)
   * [🔢 Enumeration](ethical-hacking-and-pen-testing-notes/enumeration/README.md)
     * [🐧 Linux](ethical-hacking-and-pen-testing-notes/enumeration/linux.md)
     * [🪟 Windows](ethical-hacking-and-pen-testing-notes/enumeration/windows.md)
