@@ -171,6 +171,7 @@
       * [Lab: Basic server-side template injection (code context)](readme/web-app-pentesting-notes/ssti-server-side-template-injection/lab-basic-server-side-template-injection-code-context.md)
       * [Lab: Server-side template injection using documentation](readme/web-app-pentesting-notes/ssti-server-side-template-injection/lab-server-side-template-injection-using-documentation.md)
       * [Lab: Server-side template injection in an unknown language with a documented exploit](readme/web-app-pentesting-notes/ssti-server-side-template-injection/lab-server-side-template-injection-in-an-unknown-language-with-a-documented-exploit.md)
+      * [Lab: Server-side template injection with information disclosure via user-supplied objects](readme/web-app-pentesting-notes/ssti-server-side-template-injection/lab-server-side-template-injection-with-information-disclosure-via-user-supplied-objects.md)
     * [JWT Attack](ethical-hacking-and-pen-testing-notes/web-app-pentesting-notes/jwt-attack/README.md)
       * [Exploiting flawed JWT signature verification](ethical-hacking-and-pen-testing-notes/web-app-pentesting-notes/jwt-attack/exploiting-flawed-jwt-signature-verification.md)
       * [Brute-forcing secret keys](ethical-hacking-and-pen-testing-notes/web-app-pentesting-notes/jwt-attack/brute-forcing-secret-keys.md)
