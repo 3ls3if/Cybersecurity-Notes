@@ -6,12 +6,6 @@
 
 [HackTricks Book](https://book.hacktricks.xyz/)
 
-## Advanced Pentesting
-
-{% embed url="https://l3m0n.gitbook.io/pen-testing-notes" %}
-Advanced Pentesting Notes
-{% endembed %}
-
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/iamrohandas/)
