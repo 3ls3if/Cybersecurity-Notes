@@ -12,7 +12,7 @@
 
 ## Advanced Pentesting Notes
 
-[https://www.l3m0n.gitbook.io/pen-testing-book](https://www.l3m0n.gitbook.io/pen-testing-book)
+[https://l3m0n.gitbook.io/pen-testing-book](https://www.l3m0n.gitbook.io/pen-testing-book)
 
 ## Disclaimer
 
