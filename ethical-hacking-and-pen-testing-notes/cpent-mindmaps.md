@@ -1,2 +1,0 @@
-# 🦹 CPENT Mindmaps
-

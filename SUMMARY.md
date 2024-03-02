@@ -116,7 +116,6 @@
       * [Tasks](ethical-hacking-and-pen-testing-notes/ceh-mindmaps/cloud-computing/tasks.md)
     * [🔏 Cryptography](ethical-hacking-and-pen-testing-notes/ceh-mindmaps/cryptography/README.md)
       * [Tasks](ethical-hacking-and-pen-testing-notes/ceh-mindmaps/cryptography/tasks.md)
-  * [🦹 CPENT Mindmaps](ethical-hacking-and-pen-testing-notes/cpent-mindmaps.md)
   * [👿 Vulnerability Research](readme/vulnerability-research/README.md)
     * [👨‍💻 Code Review](readme/vulnerability-research/code-review.md)
   * [🐧 Develop Your Own Linux Distro](ethical-hacking-and-pen-testing-notes/develop-your-own-linux-distro.md)
