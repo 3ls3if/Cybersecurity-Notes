@@ -1,2 +1,0 @@
-# 🖥 Server Side Vulnerabilities
-
