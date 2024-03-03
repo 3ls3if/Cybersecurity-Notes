@@ -215,6 +215,7 @@
     * [🐮 Metasploit Cheat Sheet](ethical-hacking-and-pen-testing-notes/hacking-cheat-sheets/metasploit-cheat-sheet.md)
     * [🧰 Ethical Hacking Tools](readme/hacking-cheat-sheets/ethical-hacking-tools.md)
     * [🐧 Linux Hacking Basics](readme/hacking-cheat-sheets/linux-hacking-basics.md)
+    * [🔺 MSFVenom](readme/hacking-cheat-sheets/msfvenom.md)
   * [🏇 CEH Practical](ethical-hacking-and-pen-testing-notes/ceh-practical/README.md)
     * [🔍 Network Scanning](ethical-hacking-and-pen-testing-notes/ceh-practical/network-scanning.md)
     * [🐕‍🦺 Service Enumeration](ethical-hacking-and-pen-testing-notes/ceh-practical/service-enumeration.md)

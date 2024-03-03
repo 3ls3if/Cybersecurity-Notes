@@ -1,5 +1,9 @@
 # 👽 Ethical Hacking and Pen-Testing Notes
 
+## Introduction
+
+> Introducing Rohan, a dedicated Masters student and Penetration Tester, deeply involved in cyber security for over seven years. His journey into the security world began unexpectedly in 2017 when he received a laptop from the government of Assam for his good performance in the 10th board exams. To his surprise, the laptop came with Linux preinstalled, specifically Ubuntu version 16.x.x, sparking his interest. Struggling to navigate Ubuntu initially, Rohan sought help from a neighbor. This encounter led to a revelation – learning about Linux and its connection to hackers piqued his curiosity and set him on a path into cyber security. Driven by a thirst for knowledge and a fascination with hacking, Rohan started his journey in this cyber security field. Connect with him to learn more about his experiences.
+
 ## Useful Resources
 
 [CheatSheet](https://cheatsheet.haax.fr/)
@@ -12,7 +16,9 @@
 
 ## Advanced Pentesting Notes
 
-[https://l3m0n.gitbook.io/pen-testing-book/](https://l3m0n.gitbook.io/pen-testing-book/)
+GITBOOK - [https://l3m0n.gitbook.io/pen-testing-book/](https://l3m0n.gitbook.io/pen-testing-book/)
+
+GITHUB - [https://github.com/3ls3if/Pentesting-Notes](https://github.com/3ls3if/Pentesting-Notes) &#x20;
 
 ## Disclaimer
 
