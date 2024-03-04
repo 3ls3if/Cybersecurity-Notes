@@ -19,6 +19,8 @@
     * [DNS Tunneling](ethical-hacking-and-pen-testing-notes/tunneling-and-exfiltration/dns-tunneling.md)
     * [TCP/UDP Tunneling](ethical-hacking-and-pen-testing-notes/tunneling-and-exfiltration/tcp-udp-tunneling.md)
     * [CloudFlare Tunnel](ethical-hacking-and-pen-testing-notes/tunneling-and-exfiltration/cloudflare-tunnel.md)
+  * [🎣 Pivoting (Post Exploitation)](readme/pivoting-post-exploitation/README.md)
+    * [Using Metasploit](readme/pivoting-post-exploitation/using-metasploit.md)
   * [🎯 Active Directory Pentesting](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/README.md)
     * [ℹ️ Introduction to Identities](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/introduction-to-identities.md)
     * [🔧 Testing Active Directory](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/testing-active-directory.md)
