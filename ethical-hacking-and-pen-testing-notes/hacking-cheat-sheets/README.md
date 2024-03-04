@@ -1,2 +1,2 @@
-# 💩 Hacking Cheat Sheets
+# 📒 Hacking Cheat Sheets
 

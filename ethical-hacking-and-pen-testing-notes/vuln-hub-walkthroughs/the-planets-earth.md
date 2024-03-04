@@ -1,4 +1,4 @@
-# THE PLANETS: EARTH
+# 🌏 THE PLANETS: EARTH
 
 #### About Release
 
