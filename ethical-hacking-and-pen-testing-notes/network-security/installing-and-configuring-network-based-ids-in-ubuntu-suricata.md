@@ -1,4 +1,4 @@
-# Installing and Configuring Network Based IDS In Ubuntu: Suricata
+# 🦝 Installing and Configuring Network Based IDS In Ubuntu: Suricata
 
 {% embed url="https://docs.suricata.io/en/latest/quickstart.html" %}
 
