@@ -29,6 +29,7 @@
   * [🎯 Active Directory Pentesting](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/README.md)
     * [🐕‍🦺 Kerberos Attacks](readme/active-directory-pentesting/kerberos-attacks/README.md)
       * [ASREProast](readme/active-directory-pentesting/kerberos-attacks/asreproast.md)
+      * [Kerberoast](readme/active-directory-pentesting/kerberos-attacks/kerberoast.md)
     * [ℹ️ Introduction to Identities](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/introduction-to-identities.md)
     * [🔧 Testing Active Directory](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/testing-active-directory.md)
     * [🎓 Advanced Penetration Testing](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/advanced-penetration-testing.md)
