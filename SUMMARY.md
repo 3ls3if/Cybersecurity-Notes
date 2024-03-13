@@ -27,6 +27,8 @@
     * [Tool - Chisel](readme/pivoting-post-exploitation/tool-chisel.md)
     * [Chisel - Double Pivoting](readme/pivoting-post-exploitation/chisel-double-pivoting.md)
   * [🎯 Active Directory Pentesting](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/README.md)
+    * [🔑 Crendentials](readme/active-directory-pentesting/crendentials/README.md)
+      * [Group Policy Preferences](readme/active-directory-pentesting/crendentials/group-policy-preferences.md)
     * [🐕‍🦺 Kerberos Attacks](readme/active-directory-pentesting/kerberos-attacks/README.md)
       * [ASREProast](readme/active-directory-pentesting/kerberos-attacks/asreproast.md)
       * [Kerberoast](readme/active-directory-pentesting/kerberos-attacks/kerberoast.md)
