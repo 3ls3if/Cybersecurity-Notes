@@ -29,6 +29,7 @@
   * [🎯 Active Directory Pentesting](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/README.md)
     * [🔑 Crendentials](readme/active-directory-pentesting/crendentials/README.md)
       * [Group Policy Preferences](readme/active-directory-pentesting/crendentials/group-policy-preferences.md)
+      * [LLMNR Poisoning](readme/active-directory-pentesting/crendentials/llmnr-poisoning.md)
     * [🐕‍🦺 Kerberos Attacks](readme/active-directory-pentesting/kerberos-attacks/README.md)
       * [ASREProast](readme/active-directory-pentesting/kerberos-attacks/asreproast.md)
       * [Kerberoast](readme/active-directory-pentesting/kerberos-attacks/kerberoast.md)
