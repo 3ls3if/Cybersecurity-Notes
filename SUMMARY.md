@@ -290,5 +290,6 @@
     * [🐧 Linux ELF Format](readme/reverse-engineering-and-malware-analysis/linux-elf-format.md)
   * [🌠 Protocol Exploitation](readme/protocol-exploitation/README.md)
     * [ARP](readme/protocol-exploitation/arp.md)
+    * [DNS](readme/protocol-exploitation/dns.md)
   * [🐱 GitHub Commands](readme/github-commands/README.md)
     * [📔 Cheatsheet](readme/github-commands/cheatsheet.md)
