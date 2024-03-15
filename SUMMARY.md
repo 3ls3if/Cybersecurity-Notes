@@ -31,6 +31,7 @@
       * [Group Policy Preferences](readme/active-directory-pentesting/crendentials/group-policy-preferences.md)
       * [LLMNR Poisoning](readme/active-directory-pentesting/crendentials/llmnr-poisoning.md)
       * [LDAP (Post)](readme/active-directory-pentesting/crendentials/ldap-post.md)
+      * [Brute Force](readme/active-directory-pentesting/crendentials/brute-force.md)
     * [🐕‍🦺 Kerberos Attacks](readme/active-directory-pentesting/kerberos-attacks/README.md)
       * [ASREProast](readme/active-directory-pentesting/kerberos-attacks/asreproast.md)
       * [Kerberoast](readme/active-directory-pentesting/kerberos-attacks/kerberoast.md)
