@@ -52,6 +52,7 @@
   * [🙅‍♂️ Social Engineering](ethical-hacking-and-pen-testing-notes/social-engineering/README.md)
     * [🗺️ Location Phishing](ethical-hacking-and-pen-testing-notes/social-engineering/location-phishing.md)
     * [🧘‍♂️ 0-Click Email Attack](ethical-hacking-and-pen-testing-notes/social-engineering/0-click-email-attack.md)
+    * [🐧 Binary Linux Trojan](readme/social-engineering/binary-linux-trojan.md)
   * [🗺️ CEH Mindmaps](ethical-hacking-and-pen-testing-notes/ceh-mindmaps/README.md)
     * [ℹ️ Recon and Information Gathering](ethical-hacking-and-pen-testing-notes/ceh-mindmaps/recon-and-information-gathering/README.md)
       * [Lab 1: Perform Footprinting Through Search Engines](ethical-hacking-and-pen-testing-notes/ceh-mindmaps/recon-and-information-gathering/lab-1-perform-footprinting-through-search-engines/README.md)
