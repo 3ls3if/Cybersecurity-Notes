@@ -300,3 +300,5 @@
     * [DNS](readme/protocol-exploitation/dns.md)
   * [🐱 GitHub Commands](readme/github-commands/README.md)
     * [📔 Cheatsheet](readme/github-commands/cheatsheet.md)
+  * [🛜 Network Pentesting](readme/network-pentesting/README.md)
+    * [SNMP - Authentification](readme/network-pentesting/snmp-authentification.md)
