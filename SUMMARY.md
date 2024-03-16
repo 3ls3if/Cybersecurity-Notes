@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👽 Ethical Hacking and Pen-Testing Notes](README.md)
+* [👽 CS && Pen-Testing Notes](README.md)
   * [🕵️ OSINT](ethical-hacking-and-pen-testing-notes/osint/README.md)
     * [Data Breach and Leaks Resources](ethical-hacking-and-pen-testing-notes/osint/data-breach-and-leaks-resources.md)
     * [OSINT Tools and Resources](ethical-hacking-and-pen-testing-notes/osint/osint-tools-and-resources.md)
