@@ -302,3 +302,6 @@
     * [📔 Cheatsheet](readme/github-commands/cheatsheet.md)
   * [🛜 Network Pentesting](readme/network-pentesting/README.md)
     * [SNMP - Authentification](readme/network-pentesting/snmp-authentification.md)
+  * [👮 Digital Forensics](readme/digital-forensics/README.md)
+    * [📝 Memory Forensics](readme/digital-forensics/memory-forensics/README.md)
+      * [Memory Analysis - Volatility3](readme/digital-forensics/memory-forensics/memory-analysis-volatility3.md)
