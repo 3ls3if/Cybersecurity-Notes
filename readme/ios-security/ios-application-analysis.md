@@ -39,7 +39,7 @@ Property list files (.plist) store a serialized object representation of hierarc
 Plist files can be stored either in XML or binary format. Because XML files are readable with any text editor, they are easy to open and analyze. Binary .plist files, however, need to be parsed or converted to XML format before they can be displayed in human-readable format.
 {% endhint %}
 
-#### Display the format of .ipa file
+#### Identify the format of .ipa file
 
 ```
 file calculator.ipa
@@ -57,13 +57,13 @@ unzip calculator.ipa
 file Info.plist
 ```
 
-#### Convert plist file to XML
+#### Convert .plist file from Binary to XML
 
 ```
 plistutil -f xml -i Info.plist -o Info.xml
 ```
 
-#### Read the plist file
+#### Read the .plist file
 
 ```
 nano Info.xml
@@ -82,3 +82,5 @@ nano Info.xml
   CH101-SW1](https://developer.apple.com/library/content/documentation/CoreFoundatiCH101-SW1)
 * [https://en.wikipedia.org/wiki/IOS\_version\_history#iOS\_9](https://en.wikipedia.org/wiki/IOS\_version\_history#iOS\_9.)
 * [https://blog.lookout.com/pegasus-trident-cio-ciso-what-to-do/pegasus-trident-ios-update](https://blog.lookout.com/pegasus-trident-cio-ciso-what-to-do/pegasus-trident-ios-update)
+* [https://osxdaily.com/2016/03/10/convert-plist-file-xml-binary-mac-os-x-plutil/](https://osxdaily.com/2016/03/10/convert-plist-file-xml-binary-mac-os-x-plutil/)
+* [https://manpages.ubuntu.com/manpages/noble/man1/plistutil.1.html#:\~:text=DESCRIPTION,XML%20format%20or%20vice%2Dversa.](https://manpages.ubuntu.com/manpages/noble/man1/plistutil.1.html)
