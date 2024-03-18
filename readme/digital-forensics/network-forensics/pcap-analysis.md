@@ -25,6 +25,12 @@ python3 ./Pcredz -i eth0 -v
 
 #### Ngrep
 
+Install ngrep
+
+```
+sudo apt install ngrep
+```
+
 If you are **looking** for **something** inside the pcap you can use **ngrep**. Here is an example using the main filters:
 
 ```
