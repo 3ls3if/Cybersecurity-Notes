@@ -309,3 +309,5 @@
       * [Memory Analysis - Volatility3](readme/digital-forensics/memory-forensics/memory-analysis-volatility3.md)
     * [☄️ Network Forensics](readme/digital-forensics/network-forensics/README.md)
       * [Pcap Analysis](readme/digital-forensics/network-forensics/pcap-analysis.md)
+    * [🪟 Windows Forensics](readme/digital-forensics/windows-forensics/README.md)
+      * [NTDS Secret Extraction](readme/digital-forensics/windows-forensics/ntds-secret-extraction.md)
