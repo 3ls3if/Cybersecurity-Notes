@@ -311,3 +311,5 @@
       * [Pcap Analysis](readme/digital-forensics/network-forensics/pcap-analysis.md)
     * [🪟 Windows Forensics](readme/digital-forensics/windows-forensics/README.md)
       * [NTDS Secret Extraction](readme/digital-forensics/windows-forensics/ntds-secret-extraction.md)
+    * [📼 Media Forensics](readme/digital-forensics/media-forensics/README.md)
+      * [Rubber Ducky Analysis](readme/digital-forensics/media-forensics/rubber-ducky-analysis.md)
