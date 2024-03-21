@@ -319,3 +319,5 @@
       * [NTDS Secret Extraction](readme/digital-forensics/windows-forensics/ntds-secret-extraction.md)
     * [📼 Media Forensics](readme/digital-forensics/media-forensics/README.md)
       * [Rubber Ducky Analysis](readme/digital-forensics/media-forensics/rubber-ducky-analysis.md)
+    * [🧙 Forensic Imaging](readme/digital-forensics/forensic-imaging/README.md)
+      * [Image Analysis: Autopsy](readme/digital-forensics/forensic-imaging/image-analysis-autopsy.md)

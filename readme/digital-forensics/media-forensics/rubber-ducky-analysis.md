@@ -6,7 +6,7 @@
 
 A Rubber Ducky Attack is a cyberattack in which a custom USB device emulates a USB keyboard to attack a workstation. When plugged in, the device immediately begins to imitate a user "typing" a particular set of keystrokes—usually commands or keystrokes designed to perform illicit activity on the target system.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Source: www.sciencedirect.com</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Source: www.sciencedirect.com</p></figcaption></figure>
 
 
 
@@ -26,7 +26,7 @@ A bin file in a USB Rubber Ducky is the binary equivalent of the DuckyScript sou
 python2 DuckDecoder.py <display | decode> /path/to/inject.bin
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Decoded outout of bin file</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Decoded outout of bin file</p></figcaption></figure>
 
 #### [Ducktoolkit](https://pypi.org/project/ducktoolkit/)
 
