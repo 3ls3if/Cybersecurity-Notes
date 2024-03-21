@@ -6,7 +6,7 @@
 
 A Rubber Ducky Attack is a cyberattack in which a custom USB device emulates a USB keyboard to attack a workstation. When plugged in, the device immediately begins to imitate a user "typing" a particular set of keystrokes—usually commands or keystrokes designed to perform illicit activity on the target system.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Source: www.sciencedirect.com</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Source: www.sciencedirect.com</p></figcaption></figure>
 
 
 

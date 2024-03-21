@@ -52,7 +52,7 @@ gosecretsdump -ntds ntds.dit.save -system system.save
 ./secretsdump.py -ntds ~/Downloads/regbackup/ntds.dit -system ~/Downloads/regback/SYSTEM LOCAL
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Impacket's Secretsdump Output</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Impacket's Secretsdump Output</p></figcaption></figure>
 
 #### [Ntdissector](https://github.com/synacktiv/ntdissector)
 

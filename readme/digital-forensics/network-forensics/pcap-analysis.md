@@ -21,7 +21,7 @@ python3 ./Pcredz -d /tmp/pcap-directory-to-parse/
 python3 ./Pcredz -i eth0 -v
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Pcredz Example</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Pcredz Example</p></figcaption></figure>
 
 #### Ngrep
 
