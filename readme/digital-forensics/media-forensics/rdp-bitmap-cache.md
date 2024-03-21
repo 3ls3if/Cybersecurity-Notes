@@ -43,6 +43,7 @@ python bmc-tools.py -s "/home/ubuntu/Downloads/file.bmc" -d RDPBitMapOutput -b
 
 * \-s : Specify the BMCache file or directory to process
 * \-d : Specify the directory where to store the extracted bitmaps
+* \-b : Will provide one bitmap image which aggregates all bitmap images
 
 
 
