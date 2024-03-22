@@ -55,6 +55,7 @@
       * [Shared Local Administrator Password](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/windows-and-active-directory-attacks/shared-local-administrator-password.md)
   * [🐳 Docker](ethical-hacking-and-pen-testing-notes/docker/README.md)
     * [Docker Container](ethical-hacking-and-pen-testing-notes/docker/docker-container.md)
+    * [Expose Docker Remotely](readme/docker/expose-docker-remotely.md)
   * [🙅‍♂️ Social Engineering](ethical-hacking-and-pen-testing-notes/social-engineering/README.md)
     * [🗺️ Location Phishing](ethical-hacking-and-pen-testing-notes/social-engineering/location-phishing.md)
     * [🧘‍♂️ 0-Click Email Attack](ethical-hacking-and-pen-testing-notes/social-engineering/0-click-email-attack.md)
