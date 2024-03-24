@@ -15,6 +15,7 @@
   * [🔢 Enumeration](ethical-hacking-and-pen-testing-notes/enumeration/README.md)
     * [🔅 Protocols and Ports](readme/enumeration/protocols-and-ports/README.md)
       * [21 - FTP](readme/enumeration/protocols-and-ports/21-ftp.md)
+      * [22 - SSH](readme/enumeration/protocols-and-ports/22-ssh.md)
     * [🐧 Linux - POST](ethical-hacking-and-pen-testing-notes/enumeration/linux.md)
     * [🪟 Windows - POST](ethical-hacking-and-pen-testing-notes/enumeration/windows.md)
   * [☮️ Public Exploits](ethical-hacking-and-pen-testing-notes/public-exploits/README.md)
