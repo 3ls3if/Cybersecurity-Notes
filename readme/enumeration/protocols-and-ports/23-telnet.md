@@ -57,3 +57,4 @@ hydra ‐t 10 ‐e nsr ‐L <User List> ‐P <Password List> telnet://<IP>
 * [https://en.wikipedia.org/wiki/Telnet](https://en.wikipedia.org/wiki/Telnet)
 * [https://book.hacktricks.xyz/network-services-pentesting/pentesting-telnet](https://book.hacktricks.xyz/network-services-pentesting/pentesting-telnet)
 * [https://www.hackingarticles.in/penetration-testing-telnet-port-23/](https://www.hackingarticles.in/penetration-testing-telnet-port-23/)
+* [https://fareedfauzi.gitbook.io/oscp-playbook/services-enumeration/telnet](https://fareedfauzi.gitbook.io/oscp-playbook/services-enumeration/telnet)
