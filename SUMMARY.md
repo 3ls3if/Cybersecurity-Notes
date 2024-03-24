@@ -13,6 +13,8 @@
       * [⛓️ DNS Recon and Route Mapping](readme/reconnaissance/passive-recon/dns-recon-and-route-mapping.md)
       * [👨‍💼 Obtain User Information](readme/reconnaissance/passive-recon/obtain-user-information.md)
   * [🔢 Enumeration](ethical-hacking-and-pen-testing-notes/enumeration/README.md)
+    * [🔅 Protocols and Ports](readme/enumeration/protocols-and-ports/README.md)
+      * [21 - FTP](readme/enumeration/protocols-and-ports/21-ftp.md)
     * [🐧 Linux - POST](ethical-hacking-and-pen-testing-notes/enumeration/linux.md)
     * [🪟 Windows - POST](ethical-hacking-and-pen-testing-notes/enumeration/windows.md)
   * [☮️ Public Exploits](ethical-hacking-and-pen-testing-notes/public-exploits/README.md)
