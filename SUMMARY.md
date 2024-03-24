@@ -327,3 +327,5 @@
       * [RDP Bitmap Cache](readme/digital-forensics/media-forensics/rdp-bitmap-cache.md)
     * [🧙 Forensic Imaging](readme/digital-forensics/forensic-imaging/README.md)
       * [Image Analysis: Autopsy](readme/digital-forensics/forensic-imaging/image-analysis-autopsy.md)
+  * [🦋 Cisco Attacks](readme/cisco-attacks/README.md)
+    * [Decrypting Type 5 Cisco Passwords](readme/cisco-attacks/decrypting-type-5-cisco-passwords.md)
