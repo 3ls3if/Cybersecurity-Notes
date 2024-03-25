@@ -30,7 +30,7 @@ Click on Browse and select the .bmc file
 Click on Load
 ```
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Bitmapcacheviewer Output</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Bitmapcacheviewer Output</p></figcaption></figure>
 
 
 

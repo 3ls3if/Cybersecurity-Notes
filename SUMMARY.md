@@ -17,6 +17,7 @@
       * [21 - FTP](readme/enumeration/protocols-and-ports/21-ftp.md)
       * [22 - SSH](readme/enumeration/protocols-and-ports/22-ssh.md)
       * [23 - Telnet](readme/enumeration/protocols-and-ports/23-telnet.md)
+      * [25,465 - SMTP](readme/enumeration/protocols-and-ports/25-465-smtp.md)
     * [🐧 Linux - POST](ethical-hacking-and-pen-testing-notes/enumeration/linux.md)
     * [🪟 Windows - POST](ethical-hacking-and-pen-testing-notes/enumeration/windows.md)
   * [☮️ Public Exploits](ethical-hacking-and-pen-testing-notes/public-exploits/README.md)
