@@ -19,6 +19,8 @@
       * [23 - Telnet](readme/enumeration/protocols-and-ports/23-telnet.md)
       * [25, 465 - SMTP](readme/enumeration/protocols-and-ports/25-465-smtp.md)
       * [110, 143 - POP3, IMAP4](readme/enumeration/protocols-and-ports/110-143-pop3-imap4.md)
+      * [1521 - Oracle DB Server](readme/enumeration/protocols-and-ports/1521-oracle-db-server.md)
+      * [3306 - Mysql](readme/enumeration/protocols-and-ports/3306-mysql.md)
     * [🐧 Linux - POST](ethical-hacking-and-pen-testing-notes/enumeration/linux.md)
     * [🪟 Windows - POST](ethical-hacking-and-pen-testing-notes/enumeration/windows.md)
   * [☮️ Public Exploits](ethical-hacking-and-pen-testing-notes/public-exploits/README.md)
