@@ -23,6 +23,7 @@
       * [3306 - Mysql](readme/enumeration/protocols-and-ports/3306-mysql.md)
       * [2375 - Docker](readme/enumeration/protocols-and-ports/2375-docker.md)
       * [8080, 50000 - Jenkins](readme/enumeration/protocols-and-ports/8080-50000-jenkins.md)
+      * [80, 443 - HTTP, HTTPS](readme/enumeration/protocols-and-ports/80-443-http-https.md)
     * [🐧 Linux - POST](ethical-hacking-and-pen-testing-notes/enumeration/linux.md)
     * [🪟 Windows - POST](ethical-hacking-and-pen-testing-notes/enumeration/windows.md)
   * [☮️ Public Exploits](ethical-hacking-and-pen-testing-notes/public-exploits/README.md)
