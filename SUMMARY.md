@@ -25,6 +25,7 @@
       * [8080, 50000 - Jenkins](readme/enumeration/protocols-and-ports/8080-50000-jenkins.md)
       * [80, 443 - HTTP, HTTPS](readme/enumeration/protocols-and-ports/80-443-http-https.md)
       * [3389 - RDP](readme/enumeration/protocols-and-ports/3389-rdp.md)
+      * [5900 - VNC](readme/enumeration/protocols-and-ports/5900-vnc.md)
     * [🐧 Linux - POST](ethical-hacking-and-pen-testing-notes/enumeration/linux.md)
     * [🪟 Windows - POST](ethical-hacking-and-pen-testing-notes/enumeration/windows.md)
   * [☮️ Public Exploits](ethical-hacking-and-pen-testing-notes/public-exploits/README.md)
