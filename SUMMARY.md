@@ -12,6 +12,8 @@
         * [NATO OSINT manual](readme/reconnaissance/passive-recon/osint/nato-osint-manual.md)
       * [⛓️ DNS Recon and Route Mapping](readme/reconnaissance/passive-recon/dns-recon-and-route-mapping.md)
       * [👨‍💼 Obtain User Information](readme/reconnaissance/passive-recon/obtain-user-information.md)
+    * [2️⃣ Active Recon](readme/reconnaissance/active-recon/README.md)
+      * [🐹 Stealth Scanning Strategies](readme/reconnaissance/active-recon/stealth-scanning-strategies.md)
   * [🔢 Enumeration](ethical-hacking-and-pen-testing-notes/enumeration/README.md)
     * [🔅 Protocols and Ports](readme/enumeration/protocols-and-ports/README.md)
       * [21 - FTP](readme/enumeration/protocols-and-ports/21-ftp.md)
