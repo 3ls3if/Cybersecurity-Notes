@@ -64,7 +64,37 @@ vol.py -f “/path/to/file” windows.registry.hivescan
 vol.py -f “/path/to/file” windows.registry.hivelist
 ```
 
+### Files
 
+#### Filescan
+
+```
+vol.py -f “/path/to/file” windows.filescan
+```
+
+#### Filedump
+
+```
+vol.py -f “/path/to/file” -o “/path/to/dir” windows.dumpfiles
+
+vol.py -f “/path/to/file” -o “/path/to/dir” windows.dumpfiles ‑‑virtaddr <offset>
+
+vol.py -f “/path/to/file” -o “/path/to/dir” windows.dumpfiles ‑‑physaddr <offset>
+```
+
+
+
+### Miscellaneous
+
+#### Yarascan
+
+```
+vol.py -f “/path/to/file” windows.vadyarascan ‑‑yara-rules <string>
+
+vol.py -f “/path/to/file” windows.vadyarascan ‑‑yara-file “/path/to/file.yar”
+
+vol.py -f “/path/to/file” yarascan.yarascan ‑‑yara-file “/path/to/file.yar”
+```
 
 ***
 
