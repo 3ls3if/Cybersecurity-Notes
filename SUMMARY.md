@@ -346,3 +346,7 @@
     * [Decrypting Type 5 Cisco Passwords](readme/cisco-attacks/decrypting-type-5-cisco-passwords.md)
   * [🐼 CVE's](readme/cves/README.md)
     * [libssh 0.8.1 - CVE 2018-10933](readme/cves/libssh-0.8.1-cve-2018-10933.md)
+
+## Miscellaneous
+
+* [🔐 SSH Commands](miscellaneous/ssh-commands.md)
