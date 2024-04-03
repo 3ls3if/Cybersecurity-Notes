@@ -33,6 +33,7 @@
       * [5900 - VNC](readme/enumeration/protocols-and-ports/5900-vnc.md)
       * [445 - SMB](readme/enumeration/protocols-and-ports/445-smb.md)
       * [161 UDP - SNMP](readme/enumeration/protocols-and-ports/161-udp-snmp.md)
+      * [11211 - Memcached](readme/enumeration/protocols-and-ports/11211-memcached.md)
     * [🐧 Linux - POST](ethical-hacking-and-pen-testing-notes/enumeration/linux.md)
     * [🪟 Windows - POST](ethical-hacking-and-pen-testing-notes/enumeration/windows.md)
   * [☮️ Public Exploits](ethical-hacking-and-pen-testing-notes/public-exploits/README.md)
