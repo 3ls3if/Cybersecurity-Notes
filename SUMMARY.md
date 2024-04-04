@@ -251,6 +251,7 @@
     * [Custom Wordlist](readme/password-cracking/custom-wordlist.md)
     * [Hydra](ethical-hacking-and-pen-testing-notes/password-cracking/hydra.md)
     * [John](ethical-hacking-and-pen-testing-notes/password-cracking/john.md)
+    * [Windows - Local Password Cracking](readme/password-cracking/windows-local-password-cracking.md)
   * [📒 Hacking Cheat Sheets](ethical-hacking-and-pen-testing-notes/hacking-cheat-sheets/README.md)
     * [🔍 Recon Cheatsheet](ethical-hacking-and-pen-testing-notes/hacking-cheat-sheets/recon-cheatsheet.md)
     * [🔢 Enumeration Cheatsheet](ethical-hacking-and-pen-testing-notes/hacking-cheat-sheets/enumeration-cheatsheet.md)
