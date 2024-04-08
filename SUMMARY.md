@@ -53,6 +53,7 @@
     * [Remote Port Forwarding](readme/pivoting-post-exploitation/remote-port-forwarding.md)
     * [Tool - Chisel](readme/pivoting-post-exploitation/tool-chisel.md)
     * [Chisel - Double Pivoting](readme/pivoting-post-exploitation/chisel-double-pivoting.md)
+    * [Bypassing Firewall with Forward Relays](readme/pivoting-post-exploitation/bypassing-firewall-with-forward-relays.md)
   * [🎯 Active Directory Pentesting](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/README.md)
     * [🔑 Crendentials](readme/active-directory-pentesting/crendentials/README.md)
       * [Group Policy Preferences](readme/active-directory-pentesting/crendentials/group-policy-preferences.md)
