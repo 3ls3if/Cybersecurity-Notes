@@ -47,6 +47,7 @@
     * [TCP/UDP Tunneling](ethical-hacking-and-pen-testing-notes/tunneling-and-exfiltration/tcp-udp-tunneling.md)
     * [CloudFlare Tunnel](ethical-hacking-and-pen-testing-notes/tunneling-and-exfiltration/cloudflare-tunnel.md)
     * [SOCKS](readme/tunneling-and-exfiltration/socks.md)
+    * [Ngrok - Port Forwarding](readme/tunneling-and-exfiltration/ngrok-port-forwarding.md)
   * [🎣 Pivoting (Post Exploitation)](readme/pivoting-post-exploitation/README.md)
     * [Using Metasploit](readme/pivoting-post-exploitation/using-metasploit.md)
     * [SOCKS, SSH - Pivoting](readme/pivoting-post-exploitation/socks-ssh-pivoting.md)
