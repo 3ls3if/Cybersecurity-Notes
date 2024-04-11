@@ -360,3 +360,4 @@
 ## Miscellaneous
 
 * [🔐 SSH Commands](miscellaneous/ssh-commands.md)
+* [🏦 OpenSSL Commands](miscellaneous/openssl-commands.md)
