@@ -357,6 +357,7 @@
   * [🐼 CVE's](readme/cves/README.md)
     * [libssh 0.8.1 - CVE 2018-10933](readme/cves/libssh-0.8.1-cve-2018-10933.md)
     * [proftpd-1.3.3c-backdoor](readme/cves/proftpd-1.3.3c-backdoor.md)
+    * [zerologon -  CVE-2020-1472](readme/cves/zerologon-cve-2020-1472.md)
 
 ## Miscellaneous
 
