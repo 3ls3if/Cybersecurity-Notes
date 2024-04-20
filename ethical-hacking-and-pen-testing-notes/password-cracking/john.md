@@ -46,6 +46,14 @@ zip2john file.zip > ziphash.txt
 john --format=zip ziphash.txt
 ```
 
+### Crack .pfx File
+
+```
+pfx2john <pfx file> > hash.txt
+
+john hash.txt --wordlist=<wordlist location>
+```
+
 ## Cheat Sheet
 
 {% embed url="https://haxez.org/wp-content/uploads/2022/07/HaXeZ_John_The_Ripper_Cheat_Sheet.pdf" %}
