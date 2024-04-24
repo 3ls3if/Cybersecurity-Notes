@@ -60,7 +60,13 @@ gpg2john priv.key > hash
 john hash --wordlist=/usr/share/wordlists/rockyou.txt 
 ```
 
+### Crack SSH Passphrase
 
+```
+ssh2john /home/chinju/.ssh/id_rsa > ssh_hash.txt
+
+john ssh_hash.txt --wordlist=/usr/share/wordlists/rockyou.txt
+```
 
 ***
 
@@ -69,3 +75,4 @@ john hash --wordlist=/usr/share/wordlists/rockyou.txt
 * [https://blog.atucom.net/2015/08/cracking-gpg-key-passwords-using-john.html](https://blog.atucom.net/2015/08/cracking-gpg-key-passwords-using-john.html)
 * [https://cheatsheet.haax.fr/passcracking-hashfiles/john\_cheatsheet/](https://cheatsheet.haax.fr/passcracking-hashfiles/john\_cheatsheet/)
 * [https://countuponsecurity.com/wp-content/uploads/2016/09/jtr-cheat-sheet.pdf](https://countuponsecurity.com/wp-content/uploads/2016/09/jtr-cheat-sheet.pdf)
+* [https://null-byte.wonderhowto.com/how-to/crack-ssh-private-key-passwords-with-john-ripper-0302810/](https://null-byte.wonderhowto.com/how-to/crack-ssh-private-key-passwords-with-john-ripper-0302810/)
