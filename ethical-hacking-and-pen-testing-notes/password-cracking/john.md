@@ -2,39 +2,35 @@
 
 ## Commands
 
-### List Formats
+### Formats
 
 ```
 john --list=formats
 ```
 
-### Crack Sha1
+### Crack SHA1
 
 ```
 john  --format=raw-sha1 hash.txt
 ```
 
-### Crack Md5
+### Crack MD5
 
 ```
 john --format=raw-md5 hash.txt
 ```
 
-### Cracking /etc/shadow
+### Cracking Shadow Files
 
-```
-# Unshadow
+<pre><code># Unshadow
 unshadow passwd.txt shadow.txt > unshadowed.txt
 
 # John
 john /etc/shadow
-```
 
-### Wordlist
-
-```
-john --wordlist=<password.txt> /etc/shadow
-```
+<strong># Wordlist
+</strong>john --wordlist=&#x3C;password.txt> /etc/shadow
+</code></pre>
 
 ### Cracking Zip Files
 
@@ -54,6 +50,22 @@ pfx2john <pfx file> > hash.txt
 john hash.txt --wordlist=<wordlist location>
 ```
 
-## Cheat Sheet
+### Crack GPG Passphrase
 
-{% embed url="https://haxez.org/wp-content/uploads/2022/07/HaXeZ_John_The_Ripper_Cheat_Sheet.pdf" %}
+**Read More** [Here](https://blog.atucom.net/2015/08/cracking-gpg-key-passwords-using-john.html)
+
+```
+gpg2john priv.key > hash 
+
+john hash --wordlist=/usr/share/wordlists/rockyou.txt 
+```
+
+
+
+***
+
+## REFERENCES
+
+* [https://blog.atucom.net/2015/08/cracking-gpg-key-passwords-using-john.html](https://blog.atucom.net/2015/08/cracking-gpg-key-passwords-using-john.html)
+* [https://cheatsheet.haax.fr/passcracking-hashfiles/john\_cheatsheet/](https://cheatsheet.haax.fr/passcracking-hashfiles/john\_cheatsheet/)
+* [https://countuponsecurity.com/wp-content/uploads/2016/09/jtr-cheat-sheet.pdf](https://countuponsecurity.com/wp-content/uploads/2016/09/jtr-cheat-sheet.pdf)
