@@ -6,15 +6,15 @@
 
 <figure><img src=".gitbook/assets/IMG-20221111-WA0010.jpg" alt=""><figcaption><p>Just a funny pic of him</p></figcaption></figure>
 
-## Connect with Rohan
+## Connect with Author
 
-[LinkedIn](https://www.linkedin.com/in/iamrohandas/)
+[**LinkedIn**](https://www.linkedin.com/in/iamrohandas/)
 
-## Advanced Pentesting Notes
+## Author's Publishes
 
-GITBOOK - [https://l3m0n.gitbook.io/pen-testing-book/](https://l3m0n.gitbook.io/pen-testing-book/)
+[**Pentesting Notes**](https://pentest.whitehatlabs.tech)
 
-GITHUB - [https://github.com/3ls3if/Pentesting-Notes](https://github.com/3ls3if/Pentesting-Notes) &#x20;
+[**GitHub**](https://github.com/3ls3if)
 
 ## Newsletter
 
