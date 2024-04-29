@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👽 CS && Pen-Testing Notes](README.md)
+* [👽 CS && PEN-TESTING NOTES](README.md)
   * [🔍 Reconnaissance](readme/reconnaissance/README.md)
     * [1️⃣ Passive Recon](readme/reconnaissance/passive-recon/README.md)
       * [🕵️ OSINT](readme/reconnaissance/passive-recon/osint/README.md)

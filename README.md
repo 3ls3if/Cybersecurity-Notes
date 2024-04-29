@@ -1,8 +1,8 @@
-# 👽 CS && Pen-Testing Notes
+# 👽 CS && PEN-TESTING NOTES
 
 ## About the Author
 
-> He likes to travel solo and learn new things.
+> He likes to travel and learn new things.
 
 <figure><img src=".gitbook/assets/IMG-20221111-WA0010.jpg" alt=""><figcaption><p>Just a funny pic of him</p></figcaption></figure>
 
