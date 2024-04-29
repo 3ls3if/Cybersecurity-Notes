@@ -12,7 +12,7 @@
 
 ## Author's Publishes
 
-[**Pentesting Notes**](https://pentest.whitehatlabs.tech)
+[**Pentesting Book**](https://pentest.whitehatlabs.tech/)
 
 [**GitHub**](https://github.com/3ls3if)
 
