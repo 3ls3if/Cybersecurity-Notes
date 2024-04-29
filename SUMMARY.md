@@ -70,6 +70,8 @@
       * [ASREProast](readme/active-directory-pentesting/kerberos-attacks/asreproast.md)
       * [Kerberoast](readme/active-directory-pentesting/kerberos-attacks/kerberoast.md)
       * [Pass the Certificate](readme/active-directory-pentesting/kerberos-attacks/pass-the-certificate.md)
+    * [🏁 AD Post Exploitation](readme/active-directory-pentesting/ad-post-exploitation/README.md)
+      * [Active Directory Post Exploitation](readme/active-directory-pentesting/ad-post-exploitation/active-directory-post-exploitation.md)
     * [ℹ️ Introduction to Identities](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/introduction-to-identities.md)
     * [🔧 Testing Active Directory](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/testing-active-directory.md)
     * [🎓 Advanced Penetration Testing](ethical-hacking-and-pen-testing-notes/active-directory-pentesting/advanced-penetration-testing.md)
