@@ -10,6 +10,8 @@
         * [Creepy](readme/reconnaissance/passive-recon/osint/creepy.md)
         * [The US Army manual ATP 2-22.9](readme/reconnaissance/passive-recon/osint/the-us-army-manual-atp-2-22.9.md)
         * [NATO OSINT manual](readme/reconnaissance/passive-recon/osint/nato-osint-manual.md)
+        * [Twitter Geolocation](readme/reconnaissance/passive-recon/osint/twitter-geolocation.md)
+        * [Geotagging: GeoSocial Footprint](readme/reconnaissance/passive-recon/osint/geotagging-geosocial-footprint.md)
       * [⛓️ DNS Recon and Route Mapping](readme/reconnaissance/passive-recon/dns-recon-and-route-mapping.md)
       * [👨‍💼 Obtain User Information](readme/reconnaissance/passive-recon/obtain-user-information.md)
       * [🕸️ Web Recon](readme/reconnaissance/passive-recon/web-recon.md)
