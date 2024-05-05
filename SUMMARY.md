@@ -369,15 +369,10 @@
     * [proftpd-1.3.3c-backdoor](readme/cves/proftpd-1.3.3c-backdoor.md)
     * [zerologon -  CVE-2020-1472](readme/cves/zerologon-cve-2020-1472.md)
     * [Apache Ghostcat - CVE 2020-1938](readme/cves/apache-ghostcat-cve-2020-1938.md)
-
-## Miscellaneous
-
-* [🔐 SSH Commands](miscellaneous/ssh-commands.md)
-* [🏦 OpenSSL Commands](miscellaneous/openssl-commands.md)
-* [🔒 GPG](miscellaneous/gpg.md)
-
-***
-
-* [REAL WORLD & CTF](real-world-and-ctf/README.md)
-  * [Scripts and Systems](real-world-and-ctf/scripts-and-systems/README.md)
-    * [R: Code Execution](real-world-and-ctf/scripts-and-systems/r-code-execution.md)
+* [🦹 REAL WORLD && CTF](real-world-and-and-ctf/README.md)
+  * [Scripts and Systems](real-world-and-and-ctf/scripts-and-systems/README.md)
+    * [R: Code Execution](real-world-and-and-ctf/scripts-and-systems/r-code-execution.md)
+* [🦸 MISCELLANEOUS](miscellaneous/README.md)
+  * [🏦 OpenSSL Commands](miscellaneous/openssl-commands.md)
+  * [🔒 GPG](miscellaneous/gpg.md)
+  * [🔐 SSH Commands](miscellaneous/ssh-commands.md)
