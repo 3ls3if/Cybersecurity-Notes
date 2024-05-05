@@ -375,3 +375,9 @@
 * [🔐 SSH Commands](miscellaneous/ssh-commands.md)
 * [🏦 OpenSSL Commands](miscellaneous/openssl-commands.md)
 * [🔒 GPG](miscellaneous/gpg.md)
+
+***
+
+* [REAL WORLD & CTF](real-world-and-ctf/README.md)
+  * [Scripts and Systems](real-world-and-ctf/scripts-and-systems/README.md)
+    * [R: Code Execution](real-world-and-ctf/scripts-and-systems/r-code-execution.md)
