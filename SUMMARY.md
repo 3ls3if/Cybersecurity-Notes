@@ -301,6 +301,8 @@
     * [🚪 Post Exploitation](readme/windows-security/post-exploitation/README.md)
       * [Dump Password Hashes](readme/windows-security/post-exploitation/dump-password-hashes.md)
       * [Mimikatz](readme/windows-security/post-exploitation/mimikatz.md)
+    * [🦕 Persistence (Post)](readme/windows-security/persistence-post/README.md)
+      * [windows persistence 1](readme/windows-security/persistence-post/windows-persistence-1.md)
   * [🐧 Linux Security](ethical-hacking-and-pen-testing-notes/linux-security/README.md)
     * [🏋️‍♂️ Privilege Escalation](ethical-hacking-and-pen-testing-notes/linux-security/privilege-escalation/README.md)
       * [1️⃣ 1⃣ 1⃣ Exploiting Setuid Programs](ethical-hacking-and-pen-testing-notes/linux-security/privilege-escalation/exploiting-setuid-programs.md)
