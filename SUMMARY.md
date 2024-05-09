@@ -373,7 +373,7 @@
     * [zerologon -  CVE-2020-1472](readme/cves/zerologon-cve-2020-1472.md)
     * [Apache Ghostcat - CVE 2020-1938](readme/cves/apache-ghostcat-cve-2020-1938.md)
 * [🦹 REAL WORLD && CTF](real-world-and-and-ctf/README.md)
-  * [Scripts and Systems](real-world-and-and-ctf/scripts-and-systems/README.md)
+  * [⚛️ Scripts and Systems](real-world-and-and-ctf/scripts-and-systems/README.md)
     * [R: Code Execution](real-world-and-and-ctf/scripts-and-systems/r-code-execution.md)
     * [Python2 Input Vulnerability](real-world-and-and-ctf/scripts-and-systems/python2-input-vulnerability.md)
 * [🦸 MISCELLANEOUS](miscellaneous/README.md)
