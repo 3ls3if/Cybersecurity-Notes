@@ -243,6 +243,7 @@
         * [Lab: Bypassing GraphQL brute force protections](readme/web-app-pentesting-notes/graphql-api-vulnerabilities/bypassing-rate-limiting-using-aliases/lab-bypassing-graphql-brute-force-protections.md)
       * [GraphQL CSRF](readme/web-app-pentesting-notes/graphql-api-vulnerabilities/graphql-csrf/README.md)
         * [Lab: Performing CSRF exploits over GraphQL](readme/web-app-pentesting-notes/graphql-api-vulnerabilities/graphql-csrf/lab-performing-csrf-exploits-over-graphql.md)
+    * [🔏 Authentication Vulnerabilities](readme/web-app-pentesting-notes/authentication-vulnerabilities.md)
   * [🚸 Extra PDF Materials](ethical-hacking-and-pen-testing-notes/extra-pdf-materials/README.md)
     * [Azure Pen-Testing](ethical-hacking-and-pen-testing-notes/extra-pdf-materials/azure-pen-testing.md)
   * [🛩️ Wireless Hacking](ethical-hacking-and-pen-testing-notes/wireless-hacking/README.md)
