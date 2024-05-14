@@ -306,6 +306,7 @@
     * [🦕 Persistence (Post)](readme/windows-security/persistence-post/README.md)
       * [User Accounts, Hash Cracking, RID Hijacking](readme/windows-security/persistence-post/user-accounts-hash-cracking-rid-hijacking.md)
       * [Backdoors](readme/windows-security/persistence-post/backdoors.md)
+      * [Services](readme/windows-security/persistence-post/services.md)
   * [🐧 Linux Security](ethical-hacking-and-pen-testing-notes/linux-security/README.md)
     * [🏋️‍♂️ Privilege Escalation](ethical-hacking-and-pen-testing-notes/linux-security/privilege-escalation/README.md)
       * [1️⃣ 1⃣ 1⃣ Exploiting Setuid Programs](ethical-hacking-and-pen-testing-notes/linux-security/privilege-escalation/exploiting-setuid-programs.md)
