@@ -128,4 +128,12 @@ Shows the miners running ETH.\
 #### Tesla Powerpack charging Status:
 
 Helps to find the charging status of tesla powerpack.\
-`http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2`
+`http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2`&#x20;
+
+
+
+***
+
+## REFERENCES
+
+* [https://github.com/humblelad/Shodan-Dorks](https://github.com/humblelad/Shodan-Dorks)
