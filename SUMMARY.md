@@ -20,6 +20,8 @@
       * [🏭 Identify Network Infrastructure](readme/reconnaissance/active-recon/identify-network-infrastructure.md)
       * [💻 Host Enumeration](readme/reconnaissance/active-recon/host-enumeration.md)
       * [⛷️ Sparta](readme/reconnaissance/active-recon/sparta.md)
+      * [🧩 Fuzzing](readme/reconnaissance/active-recon/fuzzing/README.md)
+        * [❄️ Wfuzz](readme/reconnaissance/active-recon/fuzzing/wfuzz.md)
   * [🔢 Enumeration](ethical-hacking-and-pen-testing-notes/enumeration/README.md)
     * [🔅 Protocols and Ports](readme/enumeration/protocols-and-ports/README.md)
       * [21 - FTP](readme/enumeration/protocols-and-ports/21-ftp.md)
