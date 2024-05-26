@@ -130,6 +130,12 @@ Shows the miners running ETH.\
 Helps to find the charging status of tesla powerpack.\
 `http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2`&#x20;
 
+#### Unauthenticated Kibana Endpoints
+
+```
+kibana content-length:217
+```
+
 
 
 ***
