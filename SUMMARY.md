@@ -246,8 +246,6 @@
       * [GraphQL CSRF](readme/web-app-pentesting-notes/graphql-api-vulnerabilities/graphql-csrf/README.md)
         * [Lab: Performing CSRF exploits over GraphQL](readme/web-app-pentesting-notes/graphql-api-vulnerabilities/graphql-csrf/lab-performing-csrf-exploits-over-graphql.md)
     * [🔏 Authentication Vulnerabilities](readme/web-app-pentesting-notes/authentication-vulnerabilities.md)
-  * [🚸 Extra PDF Materials](ethical-hacking-and-pen-testing-notes/extra-pdf-materials/README.md)
-    * [Azure Pen-Testing](ethical-hacking-and-pen-testing-notes/extra-pdf-materials/azure-pen-testing.md)
   * [🛩️ Wireless Hacking](ethical-hacking-and-pen-testing-notes/wireless-hacking/README.md)
     * [Hack WPA2 Networks](ethical-hacking-and-pen-testing-notes/wireless-hacking/hack-wpa2-networks.md)
   * [🏁 CEH Engage Walkthroughs](ethical-hacking-and-pen-testing-notes/ceh-engage-walkthrough/README.md)

@@ -4,5 +4,5 @@ description: >-
   patterns in scripts and systems.
 ---
 
-# Scripts and Systems
+# ⚛️ Scripts and Systems
 
