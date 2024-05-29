@@ -45,6 +45,8 @@
   * [☮️ Public Exploits](ethical-hacking-and-pen-testing-notes/public-exploits/README.md)
     * [Look for Public Exploits](ethical-hacking-and-pen-testing-notes/public-exploits/look-for-public-exploits.md)
     * [Metasploit](ethical-hacking-and-pen-testing-notes/public-exploits/metasploit.md)
+  * [🕎 Vulnerability Scanning](readme/vulnerability-scanning/README.md)
+    * [⚛️ Nuclei](readme/vulnerability-scanning/nuclei.md)
   * [🕳️ Tunneling & Exfiltration](ethical-hacking-and-pen-testing-notes/tunneling-and-exfiltration/README.md)
     * [SSH Tunneling](ethical-hacking-and-pen-testing-notes/tunneling-and-exfiltration/ssh-tunneling.md)
     * [ICMP Exfiltration](ethical-hacking-and-pen-testing-notes/tunneling-and-exfiltration/icmp-exfiltration.md)
