@@ -383,6 +383,7 @@
     * [Apache Ghostcat - CVE 2020-1938](readme/cves/apache-ghostcat-cve-2020-1938.md)
   * [🐛 OWASP TOP 10](readme/owasp-top-10/README.md)
     * [🕸️ WEB](readme/owasp-top-10/web.md)
+    * [🦄 API](readme/owasp-top-10/api.md)
     * [🌆 IoT](readme/owasp-top-10/iot.md)
     * [📱 MOBILE](readme/owasp-top-10/mobile.md)
 * [🦹 REAL WORLD && CTF](real-world-and-and-ctf/README.md)
