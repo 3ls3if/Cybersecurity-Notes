@@ -385,6 +385,7 @@
     * [🕸️ WEB](readme/owasp-top-10/web/README.md)
       * [1️⃣ A01:2021 – Broken Access Control](readme/owasp-top-10/web/a01-2021-broken-access-control.md)
       * [2️⃣ A02:2021 – Cryptographic Failures](readme/owasp-top-10/web/a02-2021-cryptographic-failures.md)
+      * [3️⃣ A03:2021 – Injection](readme/owasp-top-10/web/a03-2021-injection.md)
     * [🦄 API](readme/owasp-top-10/api.md)
     * [🌆 IoT](readme/owasp-top-10/iot.md)
     * [📱 MOBILE](readme/owasp-top-10/mobile.md)
