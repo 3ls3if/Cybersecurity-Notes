@@ -388,6 +388,7 @@
       * [3️⃣ A03:2021 – Injection](readme/owasp-top-10/web/a03-2021-injection.md)
       * [4️⃣ A04:2021 – Insecure Design](readme/owasp-top-10/web/a04-2021-insecure-design.md)
       * [5️⃣ A05:2021 – Security Misconfiguration](readme/owasp-top-10/web/a05-2021-security-misconfiguration.md)
+      * [6️⃣ A06:2021 – Vulnerable and Outdated Components](readme/owasp-top-10/web/a06-2021-vulnerable-and-outdated-components.md)
     * [🦄 API](readme/owasp-top-10/api.md)
     * [🌆 IoT](readme/owasp-top-10/iot.md)
     * [📱 MOBILE](readme/owasp-top-10/mobile.md)
