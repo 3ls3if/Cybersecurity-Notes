@@ -387,6 +387,7 @@
       * [2️⃣ A02:2021 – Cryptographic Failures](readme/owasp-top-10/web/a02-2021-cryptographic-failures.md)
       * [3️⃣ A03:2021 – Injection](readme/owasp-top-10/web/a03-2021-injection.md)
       * [4️⃣ A04:2021 – Insecure Design](readme/owasp-top-10/web/a04-2021-insecure-design.md)
+      * [5️⃣ A05:2021 – Security Misconfiguration](readme/owasp-top-10/web/a05-2021-security-misconfiguration.md)
     * [🦄 API](readme/owasp-top-10/api.md)
     * [🌆 IoT](readme/owasp-top-10/iot.md)
     * [📱 MOBILE](readme/owasp-top-10/mobile.md)
