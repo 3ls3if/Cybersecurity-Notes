@@ -92,6 +92,8 @@
   * [🐳 Docker](ethical-hacking-and-pen-testing-notes/docker/README.md)
     * [Docker Container](ethical-hacking-and-pen-testing-notes/docker/docker-container.md)
     * [Expose Docker Remotely](readme/docker/expose-docker-remotely.md)
+  * [☸️ Kubernetes](readme/kubernetes/README.md)
+    * [Basic Commands](readme/kubernetes/basic-commands.md)
   * [🙅‍♂️ Social Engineering](ethical-hacking-and-pen-testing-notes/social-engineering/README.md)
     * [🗺️ Location Phishing](ethical-hacking-and-pen-testing-notes/social-engineering/location-phishing.md)
     * [🧘‍♂️ 0-Click Email Attack](ethical-hacking-and-pen-testing-notes/social-engineering/0-click-email-attack.md)
