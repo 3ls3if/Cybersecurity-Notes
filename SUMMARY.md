@@ -354,6 +354,7 @@
     * [1️⃣ Disassembly and Disassembler](readme/reverse-engineering-and-malware-analysis/disassembly-and-disassembler.md)
     * [2️⃣ Binary Analysis](readme/reverse-engineering-and-malware-analysis/binary-analysis.md)
     * [🐧 Linux ELF Format](readme/reverse-engineering-and-malware-analysis/linux-elf-format.md)
+    * [♎ Yara Guide](readme/reverse-engineering-and-malware-analysis/yara-guide.md)
   * [🌠 Protocol Exploitation](readme/protocol-exploitation/README.md)
     * [ARP](readme/protocol-exploitation/arp.md)
     * [DNS](readme/protocol-exploitation/dns.md)
