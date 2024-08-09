@@ -399,6 +399,8 @@
     * [🦄 API](readme/owasp-top-10/api.md)
     * [🌆 IoT](readme/owasp-top-10/iot.md)
     * [📱 MOBILE](readme/owasp-top-10/mobile.md)
+  * [🛼 Web 3 Vulnerabilities](readme/web-3-vulnerabilities/README.md)
+    * [🎆 Reentrancy Vulnerabilities](readme/web-3-vulnerabilities/reentrancy-vulnerabilities.md)
 * [🦹 REAL WORLD && CTF](real-world-and-and-ctf/README.md)
   * [⚛️ Scripts and Systems](real-world-and-and-ctf/scripts-and-systems/README.md)
     * [R: Code Execution](real-world-and-and-ctf/scripts-and-systems/r-code-execution.md)
