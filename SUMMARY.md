@@ -15,6 +15,7 @@
       * [⛓️ DNS Recon and Route Mapping](readme/reconnaissance/passive-recon/dns-recon-and-route-mapping.md)
       * [👨‍💼 Obtain User Information](readme/reconnaissance/passive-recon/obtain-user-information.md)
       * [🕸️ Web Recon](readme/reconnaissance/passive-recon/web-recon.md)
+      * [🕷️ Scraping Crypto Addresses](readme/reconnaissance/passive-recon/scraping-crypto-addresses.md)
     * [2️⃣ Active Recon](readme/reconnaissance/active-recon/README.md)
       * [🐹 Stealth Scanning Strategies](readme/reconnaissance/active-recon/stealth-scanning-strategies.md)
       * [🏭 Identify Network Infrastructure](readme/reconnaissance/active-recon/identify-network-infrastructure.md)
