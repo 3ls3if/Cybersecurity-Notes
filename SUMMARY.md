@@ -410,6 +410,7 @@
     * [⛎ Blockchain Hacking (Python)](readme/web-3-smart-contract/blockchain-hacking-python/README.md)
       * [🌆 Smart Contract Template](readme/web-3-smart-contract/blockchain-hacking-python/smart-contract-template.md)
       * [🎆 Interact with ERC20 Tokens](readme/web-3-smart-contract/blockchain-hacking-python/interact-with-erc20-tokens.md)
+      * [📲 Interact with Wallets](readme/web-3-smart-contract/blockchain-hacking-python/interact-with-wallets.md)
 * [🦹 REAL WORLD && CTF](real-world-and-and-ctf/README.md)
   * [⚛️ Scripts and Systems](real-world-and-and-ctf/scripts-and-systems/README.md)
     * [R: Code Execution](real-world-and-and-ctf/scripts-and-systems/r-code-execution.md)
