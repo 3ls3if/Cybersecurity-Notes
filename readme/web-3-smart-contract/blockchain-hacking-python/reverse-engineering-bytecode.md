@@ -35,6 +35,19 @@ Connected: True
 
 
 
+## Automated Disassembly
+
+### [Pyevmasm](https://github.com/crytic/pyevmasm)
+
+```
+# Installation
+pip install pyevmasm
+
+# Disassembly
+echo -n "608060405260043610603f57600035" | evmasm -d > disassemble.txt
+
+```
+
 
 
 
