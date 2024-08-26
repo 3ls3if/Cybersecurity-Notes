@@ -199,7 +199,42 @@ After a few moments you should see your balance increase in the second account o
 
 
 
+## Simple Authorization
 
+The below code is a simple fix of the above authorization issue that we had.
+
+```solidity
+pragma solidity ^0.6.6;
+
+contract SimpleAuth {
+
+    address owner;
+    mapping (address =>uint) balances;
+
+    constructor() public{
+        owner = msg.sender;
+    }
+
+    modifier onlyOwner(){
+        require(msg.sender == owner);
+        _;
+    }
+
+    function deposit() public payable{
+ 	    balances[msg.sender] = balances[msg.sender]+msg.value;	
+    }
+    
+    function withdraw(uint amount) public payable {
+      require(balances[msg.sender]>=amount);
+      msg.sender.transfer(amount);
+    }
+    
+    function kill() public onlyOwner {
+        // require(msg.sender == owner);
+        selfdestruct(msg.sender);
+    }
+}
+```
 
 
 
@@ -208,3 +243,9 @@ After a few moments you should see your balance increase in the second account o
 ## REFERENCES
 
 * [https://console-cowboys.blogspot.com/2020/09/smart-contract-hacking-chapter-5.html](https://console-cowboys.blogspot.com/2020/09/smart-contract-hacking-chapter-5.html)
+* [https://github.com/cclabsInc/BlockChainExploitation/tree/master/2020\_BlockchainFreeCourse/authorization](https://github.com/cclabsInc/BlockChainExploitation/tree/master/2020\_BlockchainFreeCourse/authorization)
+* [https://docs.openzeppelin.com/contracts/3.x/access-control](https://docs.openzeppelin.com/contracts/3.x/access-control)
+* [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access)
+
+
+
