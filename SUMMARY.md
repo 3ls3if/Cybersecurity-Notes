@@ -408,6 +408,7 @@
     * [🥪 Sandwich Attacks](readme/web-3-vulnerabilities/sandwich-attacks.md)
     * [🌇 Integer Attacks](readme/web-3-vulnerabilities/integer-attacks.md)
     * [🚂 Authorization Issues](readme/web-3-vulnerabilities/authorization-issues.md)
+    * [🌉 Bad Randomness](readme/web-3-vulnerabilities/bad-randomness.md)
   * [🛩️ Web 3 Smart Contract](readme/web-3-smart-contract/README.md)
     * [⛎ Blockchain Hacking (Python)](readme/web-3-smart-contract/blockchain-hacking-python/README.md)
       * [🌆 Smart Contract Template](readme/web-3-smart-contract/blockchain-hacking-python/smart-contract-template.md)
