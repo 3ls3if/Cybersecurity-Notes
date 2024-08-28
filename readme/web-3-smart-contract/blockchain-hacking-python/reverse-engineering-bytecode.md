@@ -84,8 +84,59 @@ print(Fore.WHITE)
 
 
 
+## Python EVM Bytecode Function Reversing from Assembly
+
+This code is slightly more enhanced version from the previous reversing code. Here, we are first getting the assembly function signatures from the bytecode and then matching those function signatures against our database. It takes less amount of time to complete the process of bruteforcing since we are not matching every signatures in our database with the bytecode signatures.
+
+```python
+from pyevmasm import  disassemble_hex 
+import re, requests
+from colorama import Fore
+
+
+disass = disassemble_hex("<ADD_BYTECODE").split("\n")
+signatures = [line.strip() for line in open("SignaturesDB.txt")]
+signature_from_asm = []
+
+def getFunctionsFromASM():
+    for instruction in disass: 
+        if (len(instruction) == 16) and (instruction[-8:] not in signature_from_asm):
+                signature_from_asm.append(instruction[-8:])
+
+
+def onlineFunctionLookup():
+    for signature in signature_from_asm:
+        if signature in signatures:
+                r = requests.get(f"https://api.etherface.io/v1/signatures/hash/all/{signature}/1", verify=False)
+                matches = re.findall(r'(?<="text":")(.*?)(?=",)', r.text)
+
+            
+                if r.status_code == 200 and matches :
+                    print(f' {Fore.GREEN}Signature found:')
+                    print(f'{Fore.WHITE}Possible Function Values for {signature}:')
+                    for match in matches:   
+                        print(f'{Fore.YELLOW}            - {match}')
+                    
+                elif r.status_code != 200:
+                    print(f'{Fore.RED}Signature Not Found: {signature} returned {r.status_code} (Might be False Positive)')
+
+    print(Fore.WHITE)
+
+getFunctionsFromASM()
+onlineFunctionLookup()
+```
+
+
+
+
+
+
+
 ## REFRENCES
 
 * [https://web3py.readthedocs.io/en/stable/web3.main.html#web3.Web3.to\_hex](https://web3py.readthedocs.io/en/stable/web3.main.html#web3.Web3.to\_hex)
 * [https://www.4byte.directory/](https://www.4byte.directory/)
 * [https://github.com/cclabsInc/Python-SmartContact-BlockchainExploitation/blob/main/ReversingScripts/BruteForce\_Bytecode\_Functions.py](https://github.com/cclabsInc/Python-SmartContact-BlockchainExploitation/blob/main/ReversingScripts/BruteForce\_Bytecode\_Functions.py)
+* [https://github.com/cclabsInc/Python-SmartContact-BlockchainExploitation/blob/main/ReversingScripts/ByteCodeFunctionsReverseFromASM.py](https://github.com/cclabsInc/Python-SmartContact-BlockchainExploitation/blob/main/ReversingScripts/ByteCodeFunctionsReverseFromASM.py)
+* [https://github.com/3ls3if](https://github.com/3ls3if)
+
