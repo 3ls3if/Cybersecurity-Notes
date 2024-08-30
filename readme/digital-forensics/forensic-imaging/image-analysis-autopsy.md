@@ -31,7 +31,7 @@ Autopsy performs operations onto disk images which can be created using tools li
 * Next
 * Click on Finish
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Autopsy Results</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Autopsy Results</p></figcaption></figure>
 
 {% hint style="info" %}
 Now expand and review the items from the left side pane.
