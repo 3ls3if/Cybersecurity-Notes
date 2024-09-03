@@ -417,6 +417,7 @@
       * [🍷 Reverse Engineering Bytecode](readme/web-3-smart-contract/blockchain-hacking-python/reverse-engineering-bytecode.md)
       * [✒️ Sign Transactions](readme/web-3-smart-contract/blockchain-hacking-python/sign-transactions.md)
       * [🪢 Smart Contract Interactions](readme/web-3-smart-contract/blockchain-hacking-python/smart-contract-interactions.md)
+      * [🧜‍♀️ Subscribing to Events](readme/web-3-smart-contract/blockchain-hacking-python/subscribing-to-events.md)
   * [🌃 Smart Contract Audits](readme/smart-contract-audits/README.md)
     * [🐸 Thunder Loan Audit](readme/smart-contract-audits/thunder-loan-audit/README.md)
       * [1️⃣ Initial Review](readme/smart-contract-audits/thunder-loan-audit/initial-review.md)
