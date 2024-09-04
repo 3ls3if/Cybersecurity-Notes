@@ -41,7 +41,54 @@ ngrep -I packets.pcap "^GET" "port 80 and tcp and host 192.168 and dst host 192.
 
 
 
-***
+### Extract Information
+
+#### Scapy
+
+```
+# Install Scapy
+pip3 install scapy
+
+# Start Scapy
+scapy
+
+# Read pcap file
+pcap = rdpcap('tftp_rrq.pcap')
+
+# Display graph of conversations
+pcap.conversations()
+
+# Display sessions
+pcap.sessions()
+
+# displays a list of summaries of each packet
+pcap.summary()
+
+# Display source ip address
+for pkt in pcap:
+     print(pkt[IP].src)
+
+
+```
+
+#### More Scapy Commands
+
+| summary()       | displays a list of summaries of each packet                |
+| --------------- | ---------------------------------------------------------- |
+| nsummary()      | same as previous, with the packet number                   |
+| conversations() | displays a graph of conversations                          |
+| show()          | displays the preferred representation (usually nsummary()) |
+| filter()        | returns a packet list filtered with a lambda function      |
+| hexdump()       | returns a hexdump of all packets                           |
+| hexraw()        | returns a hexdump of the Raw layer of all packets          |
+| padding()       | returns a hexdump of packets with padding                  |
+| nzpadding()     | returns a hexdump of packets with non-zero padding         |
+| plot()          | plots a lambda function applied to the packet list         |
+| make\_table()   | displays a table according to a lambda function            |
+
+
+
+
 
 ## REFERENCES
 
@@ -49,6 +96,8 @@ ngrep -I packets.pcap "^GET" "port 80 and tcp and host 192.168 and dst host 192.
 * [https://github.com/lgandx/PCredz](https://github.com/lgandx/PCredz)
 * [https://github.com/ShellCode33/CredSLayer](https://github.com/ShellCode33/CredSLayer)
 * [https://github.com/DanMcInerney/net-creds](https://github.com/DanMcInerney/net-creds)
+* [https://www.sans.org/blog/sans-pen-test-cheat-sheet-scapy/](https://www.sans.org/blog/sans-pen-test-cheat-sheet-scapy/)
+* [https://scapy.readthedocs.io/en/latest/usage.html](https://scapy.readthedocs.io/en/latest/usage.html)
 
 
 
