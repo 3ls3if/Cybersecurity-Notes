@@ -84,6 +84,12 @@ string private message;
 }
 ```
 
+## Compilation
+
+```
+brownie compile
+```
+
 ## Deploy Script
 
 {% hint style="info" %}
