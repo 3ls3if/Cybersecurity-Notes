@@ -125,6 +125,16 @@ def main():
 brownie run scripts/deploy.py
 ```
 
+## Brownie Networks List
+
+```
+brownie networks list
+```
+
+
+
+
+
 
 
 ***
