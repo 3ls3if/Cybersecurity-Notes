@@ -419,6 +419,7 @@
       * [🪢 Smart Contract Interactions](readme/web-3-smart-contract/blockchain-hacking-python/smart-contract-interactions.md)
       * [🧜‍♀️ Subscribing to Events](readme/web-3-smart-contract/blockchain-hacking-python/subscribing-to-events.md)
       * [🟤 Brownie Interactions](readme/web-3-smart-contract/blockchain-hacking-python/brownie-interactions.md)
+      * [👾 Exploit PoC](readme/web-3-smart-contract/blockchain-hacking-python/exploit-poc.md)
   * [🌃 Smart Contract Audits](readme/smart-contract-audits/README.md)
     * [🐸 Thunder Loan Audit](readme/smart-contract-audits/thunder-loan-audit/README.md)
       * [1️⃣ Initial Review](readme/smart-contract-audits/thunder-loan-audit/initial-review.md)
