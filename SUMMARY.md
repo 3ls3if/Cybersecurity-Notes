@@ -264,6 +264,7 @@
       * [Limit overrun race conditions](readme/web-app-pentesting-notes/race-conditions/limit-overrun-race-conditions.md)
   * [🛩️ Wireless Hacking](ethical-hacking-and-pen-testing-notes/wireless-hacking/README.md)
     * [Hack WPA2 Networks](ethical-hacking-and-pen-testing-notes/wireless-hacking/hack-wpa2-networks.md)
+    * [Automated: Wifite](readme/wireless-hacking/automated-wifite.md)
   * [🏁 CEH Engage Walkthroughs](ethical-hacking-and-pen-testing-notes/ceh-engage-walkthrough/README.md)
     * [1️⃣ CEH Engage Part 1](ethical-hacking-and-pen-testing-notes/ceh-engage-walkthrough/ceh-engage-part-1.md)
     * [2️⃣ CEH Engage Part 2](ethical-hacking-and-pen-testing-notes/ceh-engage-walkthrough/ceh-engage-part-2.md)
