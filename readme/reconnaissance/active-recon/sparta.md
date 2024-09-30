@@ -27,7 +27,7 @@ python3 sparta.py
 
 ### Screenshots
 
-<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption><p>Sparta Scan Results</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (212).png" alt=""><figcaption><p>Sparta Scan Results</p></figcaption></figure>
 
 
 

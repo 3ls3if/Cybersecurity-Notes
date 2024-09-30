@@ -21,7 +21,7 @@ python3 ./Pcredz -d /tmp/pcap-directory-to-parse/
 python3 ./Pcredz -i eth0 -v
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Pcredz Example</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Pcredz Example</p></figcaption></figure>
 
 #### Ngrep
 
@@ -37,7 +37,7 @@ If you are **looking** for **something** inside the pcap you can use **ngrep**. 
 ngrep -I packets.pcap "^GET" "port 80 and tcp and host 192.168 and dst host 192.168 and src host 192.168"
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Ngrep Example</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Ngrep Example</p></figcaption></figure>
 
 
 

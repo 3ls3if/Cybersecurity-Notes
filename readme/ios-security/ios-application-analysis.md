@@ -6,7 +6,7 @@
 
 The iOS application archive (.ipa extension) has a format and structure similar to the Android APK. Both are ZIP archives with a custom file extension containing all the necessary files for the application to function correctly. As visible in the following hex dump, the magic bytes of the IPA archive are the same as those of a typical ZIP header:
 
-<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 The application archive includes the application’s executable, configuration files, and any data or image resources. The common file types located in the archive, as described by Apple,  are as follows:&#x20;
 

@@ -22,7 +22,7 @@ Docker must be installed on your system.
 ps -ef | grep docker
 ```
 
-<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 ### Edit docker.service File
 
@@ -33,7 +33,7 @@ vim /lib/systemd/system/docker.service
 ExecStart=/usr/bin/dockerd -H=fd:// -H=tcp://0.0.0.0:2375
 ```
 
-<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 ### Reload and Restart
 
@@ -49,7 +49,7 @@ sudo service docker restart
 curl http://localhost:2375/images/json
 ```
 
-<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 
 
