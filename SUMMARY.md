@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👽 CS && PEN-TESTING NOTES](README.md)
+* [👽 CS && PEN-TESING NOTES](README.md)
   * [🔍 Reconnaissance](readme/reconnaissance/README.md)
     * [1️⃣ Passive Recon](readme/reconnaissance/passive-recon/README.md)
       * [🕵️ OSINT](readme/reconnaissance/passive-recon/osint/README.md)
@@ -109,6 +109,7 @@
     * [♉ Malicious USB Drive](readme/social-engineering/malicious-usb-drive.md)
     * [📩 Spear-Phishing Methods (VIP)](readme/social-engineering/spear-phishing-methods-vip.md)
     * [🧑‍💼 Insider Attack](readme/social-engineering/insider-attack.md)
+    * [Wifi Phishing - Wifiphisher](readme/social-engineering/wifi-phishing-wifiphisher.md)
   * [🗺️ CEH Mindmaps](readme/ceh-mindmaps/README.md)
     * [ℹ️ Recon and Information Gathering](readme/ceh-mindmaps/recon-and-information-gathering/README.md)
       * [Lab 1: Perform Footprinting Through Search Engines](readme/ceh-mindmaps/recon-and-information-gathering/lab-1-perform-footprinting-through-search-engines/README.md)
