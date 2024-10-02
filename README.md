@@ -1,4 +1,10 @@
-# 👽 CS && PEN-TESTING NOTES
+---
+cover: >-
+  https://images.unsplash.com/photo-1671137513104-89166b4242f9?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxjeWJlciUyMHNlY3VyaXR5fGVufDB8fHx8MTcyNzg3MzYwOXww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# 👽 CS && PEN-TESING NOTES
 
 ## About the Author
 
