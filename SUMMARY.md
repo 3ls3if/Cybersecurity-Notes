@@ -447,3 +447,4 @@
   * [🔒 GPG](miscellaneous/gpg.md)
   * [🔐 SSH Commands](miscellaneous/ssh-commands.md)
   * [OWASP BWAPP Setup](miscellaneous/owasp-bwapp-setup.md)
+  * [Commando VM Setup](miscellaneous/commando-vm-setup.md)
