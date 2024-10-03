@@ -378,6 +378,8 @@
   * [🛜 Network Pentesting](readme/network-pentesting/README.md)
     * [SNMP - Authentification](readme/network-pentesting/snmp-authentification.md)
   * [👮 Digital Forensics](readme/digital-forensics/README.md)
+    * [💸 Ransomware Forensics](readme/digital-forensics/ransomware-forensics/README.md)
+      * [Decrypting Intermittent Encryption](readme/digital-forensics/ransomware-forensics/decrypting-intermittent-encryption.md)
     * [💱 Blockchain Forensics](readme/digital-forensics/blockchain-forensics/README.md)
       * [🍾 Frontrunning/Sandwich Bot Finder](readme/digital-forensics/blockchain-forensics/frontrunning-sandwich-bot-finder.md)
     * [📝 Memory Forensics](readme/digital-forensics/memory-forensics/README.md)
