@@ -62,6 +62,7 @@
     * [SOCKS](readme/tunneling-and-exfiltration/socks.md)
     * [Ngrok - Port Forwarding](readme/tunneling-and-exfiltration/ngrok-port-forwarding.md)
     * [CURL - Exfiltration](readme/tunneling-and-exfiltration/curl-exfiltration.md)
+    * [Rclone - Data Exfiltration](readme/tunneling-and-exfiltration/rclone-data-exfiltration.md)
   * [🎣 Pivoting (Post Exploitation)](readme/pivoting-post-exploitation/README.md)
     * [Using Metasploit](readme/pivoting-post-exploitation/using-metasploit.md)
     * [SOCKS, SSH - Pivoting](readme/pivoting-post-exploitation/socks-ssh-pivoting.md)
