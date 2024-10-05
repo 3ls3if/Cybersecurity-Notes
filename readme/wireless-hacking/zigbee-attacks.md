@@ -1,3 +1,7 @@
+---
+icon: z
+---
+
 # Zigbee Attacks
 
 ## Zigbee
