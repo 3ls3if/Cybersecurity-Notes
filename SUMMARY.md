@@ -403,6 +403,7 @@
     * [🔏 Privacy Research](readme/digital-forensics/privacy-research/README.md)
       * [Deanonymization - TOR Hidden Services](readme/digital-forensics/privacy-research/deanonymization-tor-hidden-services.md)
       * [Deanonymization - Flash Code](readme/digital-forensics/privacy-research/deanonymization-flash-code.md)
+      * [Dark Web - OSINT](readme/digital-forensics/privacy-research/dark-web-osint.md)
   * [🦋 Cisco Attacks](readme/cisco-attacks/README.md)
     * [Decrypting Type 5 Cisco Passwords](readme/cisco-attacks/decrypting-type-5-cisco-passwords.md)
   * [🐼 CVE's](readme/cves/README.md)
