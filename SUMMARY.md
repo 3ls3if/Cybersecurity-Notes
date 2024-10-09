@@ -404,6 +404,8 @@
       * [Deanonymization - TOR Hidden Services](readme/digital-forensics/privacy-research/deanonymization-tor-hidden-services.md)
       * [Deanonymization - Flash Code](readme/digital-forensics/privacy-research/deanonymization-flash-code.md)
       * [Dark Web - OSINT](readme/digital-forensics/privacy-research/dark-web-osint.md)
+    * [🕸️ Web Investigations](readme/digital-forensics/web-investigations/README.md)
+      * [Investigating Favicon Hashes](readme/digital-forensics/web-investigations/investigating-favicon-hashes.md)
   * [🦋 Cisco Attacks](readme/cisco-attacks/README.md)
     * [Decrypting Type 5 Cisco Passwords](readme/cisco-attacks/decrypting-type-5-cisco-passwords.md)
   * [🐼 CVE's](readme/cves/README.md)
