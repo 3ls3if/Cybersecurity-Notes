@@ -382,6 +382,8 @@
   * [🛜 Network Pentesting](readme/network-pentesting/README.md)
     * [SNMP - Authentification](readme/network-pentesting/snmp-authentification.md)
   * [👮 Digital Forensics](readme/digital-forensics/README.md)
+    * [📩 Email Forensics](readme/digital-forensics/email-forensics/README.md)
+      * [Callback Phishing](readme/digital-forensics/email-forensics/callback-phishing.md)
     * [💸 Ransomware Forensics](readme/digital-forensics/ransomware-forensics/README.md)
       * [Decrypting Intermittent Encryption](readme/digital-forensics/ransomware-forensics/decrypting-intermittent-encryption.md)
     * [💱 Blockchain Forensics](readme/digital-forensics/blockchain-forensics/README.md)
