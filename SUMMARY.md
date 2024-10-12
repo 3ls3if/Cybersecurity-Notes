@@ -274,6 +274,7 @@
       * [Hack WPA2 Networks](readme/wireless-hacking/wifi-attacks/hack-wpa2-networks.md)
       * [Automated: Wifite](readme/wireless-hacking/wifi-attacks/automated-wifite.md)
     * [Bluetooth Attacks](readme/wireless-hacking/bluetooth-attacks.md)
+    * [RFID Attacks](readme/wireless-hacking/rfid-attacks.md)
   * [🏁 CEH Engage Walkthroughs](readme/ceh-engage-walkthrough/README.md)
     * [1️⃣ CEH Engage Part 1](readme/ceh-engage-walkthrough/ceh-engage-part-1.md)
     * [2️⃣ CEH Engage Part 2](readme/ceh-engage-walkthrough/ceh-engage-part-2.md)
