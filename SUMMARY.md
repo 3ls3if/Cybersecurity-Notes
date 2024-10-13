@@ -473,7 +473,7 @@
   * [OWASP BWAPP Setup](miscellaneous/owasp-bwapp-setup.md)
   * [Commando VM Setup](miscellaneous/commando-vm-setup.md)
   * [Living Off The Land Applications](miscellaneous/living-off-the-land-applications.md)
-* [🧛‍♂️ Advanced Persistent Threats - Research](advanced-persistent-threats-research/README.md)
+* [🧛‍♂️ ADVANCED PERSISTENT THREATS - RESEARCH](advanced-persistent-threats-research/README.md)
   * [Reconnaissance](advanced-persistent-threats-research/reconnaissance.md)
   * [Resource Development](advanced-persistent-threats-research/resource-development.md)
   * [Initial Compromise](advanced-persistent-threats-research/initial-compromise.md)
@@ -488,3 +488,4 @@
   * [Command and Control](advanced-persistent-threats-research/command-and-control.md)
   * [Data exfiltration](advanced-persistent-threats-research/data-exfiltration.md)
   * [Impact](advanced-persistent-threats-research/impact.md)
+* [👾 THREAT HUNTING - RESEARCH](threat-hunting-research.md)
