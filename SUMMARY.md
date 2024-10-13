@@ -467,6 +467,7 @@
   * [🔐 SSH Commands](miscellaneous/ssh-commands.md)
   * [OWASP BWAPP Setup](miscellaneous/owasp-bwapp-setup.md)
   * [Commando VM Setup](miscellaneous/commando-vm-setup.md)
+  * [Living Off The Land Applications](miscellaneous/living-off-the-land-applications.md)
 * [🧛‍♂️ Advanced Persistent Threats - Research](advanced-persistent-threats-research/README.md)
   * [Reconnaissance](advanced-persistent-threats-research/reconnaissance.md)
   * [Resource Development](advanced-persistent-threats-research/resource-development.md)
