@@ -379,6 +379,8 @@
     * [2️⃣ Binary Analysis](readme/reverse-engineering-and-malware-analysis/binary-analysis.md)
     * [🐧 Linux ELF Format](readme/reverse-engineering-and-malware-analysis/linux-elf-format.md)
     * [♎ Yara Guide](readme/reverse-engineering-and-malware-analysis/yara-guide.md)
+    * [📱 Android Reverse Engineering](readme/reverse-engineering-and-malware-analysis/android-reverse-engineering/README.md)
+      * [Spyware Reverse Engineering](readme/reverse-engineering-and-malware-analysis/android-reverse-engineering/spyware-reverse-engineering.md)
   * [🌠 Protocol Exploitation](readme/protocol-exploitation/README.md)
     * [ARP](readme/protocol-exploitation/arp.md)
     * [DNS](readme/protocol-exploitation/dns.md)
