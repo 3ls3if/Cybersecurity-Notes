@@ -10,3 +10,14 @@ The incident response process starts with the declaration of the incident, as sh
 
 <figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption><p>Figure 1: Incident Response Process</p></figcaption></figure>
 
+
+
+***
+
+## REFERENCES
+
+* [https://www.cisa.gov/sites/default/files/2024-08/Federal\_Government\_Cybersecurity\_Incident\_and\_Vulnerability\_Response\_Playbooks\_508C.pdf](https://www.cisa.gov/sites/default/files/2024-08/Federal\_Government\_Cybersecurity\_Incident\_and\_Vulnerability\_Response\_Playbooks\_508C.pdf)
+* [https://www.youtube.com/watch?v=PCbtJ-GudLk\&list=PLi04cDmxUX2tyKB87n1wsBtYEGgmmrTrg\&index=1\&ab\_channel=JustinTolman](https://www.youtube.com/watch?v=PCbtJ-GudLk\&list=PLi04cDmxUX2tyKB87n1wsBtYEGgmmrTrg\&index=1\&ab\_channel=JustinTolman)
+
+
+
