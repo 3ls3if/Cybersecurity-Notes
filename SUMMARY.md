@@ -275,6 +275,7 @@
       * [Testing for Vulnerability](readme/web-app-pentesting-notes/host-header-attacks/testing-for-vulnerability.md)
       * [Password Reset Poisoning](readme/web-app-pentesting-notes/host-header-attacks/password-reset-poisoning.md)
       * [Web Cache Poisoning](readme/web-app-pentesting-notes/host-header-attacks/web-cache-poisoning.md)
+      * [Accessing Restricted Functionality](readme/web-app-pentesting-notes/host-header-attacks/accessing-restricted-functionality.md)
   * [🛩️ Wireless Hacking](readme/wireless-hacking/README.md)
     * [Zigbee Attacks](readme/wireless-hacking/zigbee-attacks.md)
     * [Wifi Attacks](readme/wireless-hacking/wifi-attacks/README.md)
