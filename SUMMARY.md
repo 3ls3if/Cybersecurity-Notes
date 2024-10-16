@@ -314,6 +314,7 @@
     * [🐧 Linux Hacking Basics](readme/hacking-cheat-sheets/linux-hacking-basics.md)
     * [🔺 MSFVenom](readme/hacking-cheat-sheets/msfvenom.md)
   * [🏇 CEH Practical](readme/ceh-practical/README.md)
+    * [CEH Practical Tools](readme/ceh-practical/ceh-practical-tools.md)
     * [🔍 Network Scanning](readme/ceh-practical/network-scanning.md)
     * [🐕‍🦺 Service Enumeration](readme/ceh-practical/service-enumeration.md)
     * [🖊️ Stegnography](readme/ceh-practical/stegnography.md)
