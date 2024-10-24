@@ -293,6 +293,7 @@
     * [4️⃣ CEH Engage Part 4](readme/ceh-engage-walkthrough/ceh-engage-part-4.md)
   * [🎃 Evasion](readme/evasion/README.md)
     * [OWASP-ZSC](readme/evasion/owasp-zsc.md)
+    * [AMSI Bypass](readme/evasion/amsi-bypass.md)
   * [🚪 Post exploitation](readme/post-exploitation/README.md)
     * [🥝 Mimikatz](readme/post-exploitation/mimikatz.md)
     * [🐧 Privilege escalation: Linux](readme/post-exploitation/privilege-escalation-linux.md)

@@ -1,3 +1,7 @@
+---
+icon: biohazard
+---
+
 # OWASP-ZSC
 
 {% embed url="https://github.com/OWASP/ZSC" %}
