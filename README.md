@@ -10,7 +10,7 @@ coverY: 0
 
 > He likes to travel and learn new things.
 
-<figure><img src=".gitbook/assets/IMG-20221111-WA0010.jpg" alt=""><figcaption><p>Just a funny pic of him</p></figcaption></figure>
+<figure><img src=".gitbook/assets/output-onlinepngtools.png" alt="" width="375"><figcaption><p><strong>Ahom Cyber Security Society</strong></p></figcaption></figure>
 
 ## Connect with Author
 
