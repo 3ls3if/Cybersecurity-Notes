@@ -1,3 +1,7 @@
+---
+icon: user-secret
+---
+
 # NTDS Secret Extraction
 
 ## Theory
