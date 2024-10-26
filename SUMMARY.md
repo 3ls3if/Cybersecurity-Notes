@@ -31,6 +31,8 @@
       * [🧩 Fuzzing](readme/reconnaissance/active-recon/fuzzing/README.md)
         * [❄️ Wfuzz](readme/reconnaissance/active-recon/fuzzing/wfuzz.md)
         * [Fuzzing Applications](readme/reconnaissance/active-recon/fuzzing/fuzzing-applications.md)
+        * [Linux Kernel Fuzzing](readme/reconnaissance/active-recon/fuzzing/linux-kernel-fuzzing.md)
+        * [Fuzzing Chrome V8 Engine](readme/reconnaissance/active-recon/fuzzing/fuzzing-chrome-v8-engine.md)
   * [🔢 Enumeration](readme/enumeration/README.md)
     * [🔅 Protocols and Ports](readme/enumeration/protocols-and-ports/README.md)
       * [21 - FTP](readme/enumeration/protocols-and-ports/21-ftp.md)
