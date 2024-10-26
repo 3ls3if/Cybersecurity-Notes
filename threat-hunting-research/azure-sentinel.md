@@ -1,0 +1,6 @@
+---
+icon: windows
+---
+
+# Azure Sentinel
+

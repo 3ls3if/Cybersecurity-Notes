@@ -516,6 +516,7 @@
   * [Command and Control](advanced-persistent-threats-research/command-and-control.md)
   * [Data exfiltration](advanced-persistent-threats-research/data-exfiltration.md)
   * [Impact](advanced-persistent-threats-research/impact.md)
-* [👾 THREAT HUNTING - RESEARCH](threat-hunting-research.md)
+* [👾 THREAT HUNTING - RESEARCH](threat-hunting-research/README.md)
+  * [Azure Sentinel](threat-hunting-research/azure-sentinel.md)
 * [🦅 CISA - INCIDENT RESPONSE PLAYBOOK](cisa-incident-response-playbook/README.md)
   * [Overview](cisa-incident-response-playbook/overview.md)
