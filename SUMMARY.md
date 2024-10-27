@@ -17,6 +17,7 @@
         * [Monitoring Tools](readme/reconnaissance/passive-recon/osint/monitoring-tools.md)
         * [TOR Onion Links](readme/reconnaissance/passive-recon/osint/tor-onion-links.md)
         * [Phone Numbers](readme/reconnaissance/passive-recon/osint/phone-numbers.md)
+        * [Mitaka - In-Browser Tool](readme/reconnaissance/passive-recon/osint/mitaka-in-browser-tool.md)
       * [🎟️ ADINT](readme/reconnaissance/passive-recon/adint/README.md)
         * [Surveillance](readme/reconnaissance/passive-recon/adint/surveillance.md)
       * [⛓️ DNS Recon and Route Mapping](readme/reconnaissance/passive-recon/dns-recon-and-route-mapping.md)
