@@ -1,3 +1,7 @@
+---
+icon: laptop-arrow-down
+---
+
 # RDP Bitmap Cache
 
 ## Theory

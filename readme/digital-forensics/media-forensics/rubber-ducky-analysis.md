@@ -1,3 +1,7 @@
+---
+icon: duck
+---
+
 # Rubber Ducky Analysis
 
 ## Theory

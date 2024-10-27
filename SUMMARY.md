@@ -436,6 +436,7 @@
     * [📼 Media Forensics](readme/digital-forensics/media-forensics/README.md)
       * [Rubber Ducky Analysis](readme/digital-forensics/media-forensics/rubber-ducky-analysis.md)
       * [RDP Bitmap Cache](readme/digital-forensics/media-forensics/rdp-bitmap-cache.md)
+      * [USB Event Tracking](readme/digital-forensics/media-forensics/usb-event-tracking.md)
     * [🧙 Forensic Imaging](readme/digital-forensics/forensic-imaging/README.md)
       * [Image Analysis: Autopsy](readme/digital-forensics/forensic-imaging/image-analysis-autopsy.md)
     * [🪅 Data Collection](readme/digital-forensics/data-collection/README.md)
