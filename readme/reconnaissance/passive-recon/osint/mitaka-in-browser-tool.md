@@ -24,13 +24,12 @@ Mitaka, created by [Manabu Niseki](https://ninoseki.github.io/about/), works in 
 * Choose Mitaka
 * Choose any option from the list to gather the information about the hash
 
+## Checking to See if a Site Is Sketchy
 
-
-
-
-
-
-
+* Select the domain name
+* Right click&#x20;
+* Choose Mitaka
+* Choose any option from the list to gather the information about the domain
 
 
 
