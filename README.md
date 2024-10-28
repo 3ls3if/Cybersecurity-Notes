@@ -8,7 +8,7 @@ coverY: 0
 
 ## About the Author
 
-> **Update:** This blog posts are now managed by **Ahom Cyber Security Society (ACSS)** members.
+> **Update:** The blog posts are now managed by members of the Ahom Cyber Security Society (ACSS).
 
 <figure><img src=".gitbook/assets/output-onlinepngtools (1).png" alt="" width="431"><figcaption><p><strong>Ahom Cyber Security Society</strong></p></figcaption></figure>
 

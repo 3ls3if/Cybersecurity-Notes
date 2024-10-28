@@ -121,6 +121,7 @@
     * [🧑‍💼 Insider Attack](readme/social-engineering/insider-attack.md)
     * [Wifi Phishing - Wifiphisher](readme/social-engineering/wifi-phishing-wifiphisher.md)
     * [🔐 MFA Bypass](readme/social-engineering/mfa-bypass.md)
+    * [Link Attacks](readme/social-engineering/link-attacks.md)
   * [🗺️ CEH Mindmaps](readme/ceh-mindmaps/README.md)
     * [ℹ️ Recon and Information Gathering](readme/ceh-mindmaps/recon-and-information-gathering/README.md)
       * [Lab 1: Perform Footprinting Through Search Engines](readme/ceh-mindmaps/recon-and-information-gathering/lab-1-perform-footprinting-through-search-engines/README.md)
