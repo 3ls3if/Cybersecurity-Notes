@@ -36,6 +36,7 @@
         * [Fuzzing Chrome V8 Engine](readme/reconnaissance/active-recon/fuzzing/fuzzing-chrome-v8-engine.md)
     * [☦️ Doxing](readme/reconnaissance/doxing/README.md)
       * [Doxing Anyone](readme/reconnaissance/doxing/doxing-anyone.md)
+      * [Gmail Address](readme/reconnaissance/doxing/gmail-address.md)
   * [🔢 Enumeration](readme/enumeration/README.md)
     * [🔅 Protocols and Ports](readme/enumeration/protocols-and-ports/README.md)
       * [21 - FTP](readme/enumeration/protocols-and-ports/21-ftp.md)
