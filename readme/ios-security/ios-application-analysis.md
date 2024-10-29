@@ -1,3 +1,7 @@
+---
+icon: apple
+---
+
 # iOS Application Analysis
 
 ## Theory
