@@ -314,6 +314,7 @@
     * [Hydra](readme/password-cracking/hydra.md)
     * [John](readme/password-cracking/john.md)
     * [Windows - Local Password Cracking](readme/password-cracking/windows-local-password-cracking.md)
+    * [Password Cracking using Rules](readme/password-cracking/password-cracking-using-rules.md)
   * [📒 Hacking Cheat Sheets](readme/hacking-cheat-sheets/README.md)
     * [🔍 Recon Cheatsheet](readme/hacking-cheat-sheets/recon-cheatsheet.md)
     * [🔢 Enumeration Cheatsheet](readme/hacking-cheat-sheets/enumeration-cheatsheet.md)
