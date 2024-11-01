@@ -1,3 +1,7 @@
+---
+icon: camera-viewfinder
+---
+
 # Creepy
 
 ## Install Creepy

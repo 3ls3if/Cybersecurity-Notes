@@ -13,7 +13,7 @@
         * [Twitter Geolocation](readme/reconnaissance/passive-recon/osint/twitter-geolocation.md)
         * [Geotagging: GeoSocial Footprint](readme/reconnaissance/passive-recon/osint/geotagging-geosocial-footprint.md)
         * [Bitcoin Address Lookup](readme/reconnaissance/passive-recon/osint/bitcoin-address-lookup.md)
-        * [Google Docs](readme/reconnaissance/passive-recon/osint/google-docs.md)
+        * [Google Docs OSINT](readme/reconnaissance/passive-recon/osint/google-docs-osint.md)
         * [Monitoring Tools](readme/reconnaissance/passive-recon/osint/monitoring-tools.md)
         * [TOR Onion Links](readme/reconnaissance/passive-recon/osint/tor-onion-links.md)
         * [Phone Numbers](readme/reconnaissance/passive-recon/osint/phone-numbers.md)

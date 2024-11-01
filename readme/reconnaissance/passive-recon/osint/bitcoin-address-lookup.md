@@ -1,3 +1,7 @@
+---
+icon: bitcoin
+---
+
 # Bitcoin Address Lookup
 
 ## Resources

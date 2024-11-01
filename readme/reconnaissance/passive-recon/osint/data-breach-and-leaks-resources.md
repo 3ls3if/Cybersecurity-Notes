@@ -1,3 +1,7 @@
+---
+icon: person-through-window
+---
+
 # Data Breach and Leaks Resources
 
 ## Sites

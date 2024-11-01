@@ -1,3 +1,7 @@
+---
+icon: crosshairs-simple
+---
+
 # Geotagging: GeoSocial Footprint
 
 ## GeoSocial Fooprint

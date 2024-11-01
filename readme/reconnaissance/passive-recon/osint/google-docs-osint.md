@@ -1,4 +1,8 @@
-# Google Docs
+---
+icon: google
+---
+
+# Google Docs OSINT
 
 ## [Xeuledoc](https://github.com/Malfrats/xeuledoc)
 

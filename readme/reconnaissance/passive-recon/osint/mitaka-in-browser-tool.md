@@ -1,3 +1,7 @@
+---
+icon: window-restore
+---
+
 # Mitaka - In-Browser Tool
 
 ## Introduction

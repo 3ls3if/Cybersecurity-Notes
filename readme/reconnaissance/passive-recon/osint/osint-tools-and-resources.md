@@ -1,3 +1,7 @@
+---
+icon: screwdriver-wrench
+---
+
 # OSINT Tools and Resources
 
 Online sources that should be searched include:

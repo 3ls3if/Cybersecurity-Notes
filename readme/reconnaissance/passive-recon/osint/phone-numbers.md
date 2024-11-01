@@ -1,3 +1,7 @@
+---
+icon: phone
+---
+
 # Phone Numbers
 
 ## Phone Number OSINT
