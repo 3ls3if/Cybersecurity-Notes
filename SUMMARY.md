@@ -20,6 +20,8 @@
         * [Mitaka - In-Browser Tool](readme/reconnaissance/passive-recon/osint/mitaka-in-browser-tool.md)
       * [🎟️ ADINT](readme/reconnaissance/passive-recon/adint/README.md)
         * [Surveillance](readme/reconnaissance/passive-recon/adint/surveillance.md)
+      * [🗺️ GEOINT](readme/reconnaissance/passive-recon/geoint/README.md)
+        * [Methodology](readme/reconnaissance/passive-recon/geoint/methodology.md)
       * [⛓️ DNS Recon and Route Mapping](readme/reconnaissance/passive-recon/dns-recon-and-route-mapping.md)
       * [👨‍💼 Obtain User Information](readme/reconnaissance/passive-recon/obtain-user-information.md)
       * [🕸️ Web Recon](readme/reconnaissance/passive-recon/web-recon.md)
