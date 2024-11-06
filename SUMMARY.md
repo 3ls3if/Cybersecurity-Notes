@@ -476,6 +476,7 @@
     * [zerologon -  CVE-2020-1472](readme/cves/zerologon-cve-2020-1472.md)
     * [Apache Ghostcat - CVE 2020-1938](readme/cves/apache-ghostcat-cve-2020-1938.md)
     * [Spring Authorization Bypass - CVE 2024-38821](readme/cves/spring-authorization-bypass-cve-2024-38821.md)
+    * [Apache Solr - CVE-2024-45216](readme/cves/apache-solr-cve-2024-45216.md)
   * [🐛 OWASP TOP 10](readme/owasp-top-10/README.md)
     * [🕸️ WEB](readme/owasp-top-10/web/README.md)
       * [1️⃣ A01:2021 – Broken Access Control](readme/owasp-top-10/web/a01-2021-broken-access-control.md)
