@@ -493,6 +493,7 @@
   * [🛼 Web 3 Vulnerabilities](readme/web-3-vulnerabilities/README.md)
     * [Fuzzing Ethereum Smart Contract](readme/web-3-vulnerabilities/fuzzing-ethereum-smart-contract.md)
     * [Static Analysis using Slither](readme/web-3-vulnerabilities/static-analysis-using-slither.md)
+    * [Solidity Audit using Mythril](readme/web-3-vulnerabilities/solidity-audit-using-mythril.md)
     * [🎆 Reentrancy Vulnerabilities](readme/web-3-vulnerabilities/reentrancy-vulnerabilities.md)
     * [🥪 Sandwich Attacks](readme/web-3-vulnerabilities/sandwich-attacks.md)
     * [🌇 Integer Attacks](readme/web-3-vulnerabilities/integer-attacks.md)
