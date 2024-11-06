@@ -22,6 +22,7 @@
         * [Surveillance](readme/reconnaissance/passive-recon/adint/surveillance.md)
       * [🗺️ GEOINT](readme/reconnaissance/passive-recon/geoint/README.md)
         * [Methodology](readme/reconnaissance/passive-recon/geoint/methodology.md)
+        * [SunCalc - Geospatial OSINT using shadows](readme/reconnaissance/passive-recon/geoint/suncalc-geospatial-osint-using-shadows.md)
       * [⛓️ DNS Recon and Route Mapping](readme/reconnaissance/passive-recon/dns-recon-and-route-mapping.md)
       * [👨‍💼 Obtain User Information](readme/reconnaissance/passive-recon/obtain-user-information.md)
       * [🕸️ Web Recon](readme/reconnaissance/passive-recon/web-recon.md)
