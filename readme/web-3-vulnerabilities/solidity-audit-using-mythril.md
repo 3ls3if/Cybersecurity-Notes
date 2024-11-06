@@ -68,4 +68,4 @@ myth a vulnerable.sol
 
 * [https://github.com/Consensys/mythril](https://github.com/Consensys/mythril)
 * [https://gist.github.com/vasa-develop/01f8a36a9129fd43e1ced7eb7769c341](https://gist.github.com/vasa-develop/01f8a36a9129fd43e1ced7eb7769c341)
-
+* [https://github.com/sigp/solidity-security-blog#1-re-entrancy-1](https://github.com/sigp/solidity-security-blog#1-re-entrancy-1)
