@@ -18,6 +18,7 @@
         * [TOR Onion Links](readme/reconnaissance/passive-recon/osint/tor-onion-links.md)
         * [Phone Numbers](readme/reconnaissance/passive-recon/osint/phone-numbers.md)
         * [Mitaka - In-Browser Tool](readme/reconnaissance/passive-recon/osint/mitaka-in-browser-tool.md)
+        * [Russian Target](readme/reconnaissance/passive-recon/osint/russian-target.md)
       * [🎟️ ADINT](readme/reconnaissance/passive-recon/adint/README.md)
         * [Surveillance](readme/reconnaissance/passive-recon/adint/surveillance.md)
       * [🗺️ GEOINT](readme/reconnaissance/passive-recon/geoint/README.md)
