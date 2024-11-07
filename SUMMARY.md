@@ -312,6 +312,7 @@
     * [AMSI Bypass](readme/evasion/amsi-bypass.md)
     * [Windows Evasion](readme/evasion/windows-evasion.md)
   * [🚪 Post exploitation](readme/post-exploitation/README.md)
+    * [🛬 Living Off The Land Tools](readme/post-exploitation/living-off-the-land-tools.md)
     * [🥝 Mimikatz](readme/post-exploitation/mimikatz.md)
     * [🐧 Privilege escalation: Linux](readme/post-exploitation/privilege-escalation-linux.md)
     * [🪟 Privilege escalation: Windows](readme/post-exploitation/privilege-escalation-windows.md)
