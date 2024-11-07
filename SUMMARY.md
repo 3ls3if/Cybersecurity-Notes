@@ -26,6 +26,8 @@
         * [SunCalc - Geospatial OSINT using shadows](readme/reconnaissance/passive-recon/geoint/suncalc-geospatial-osint-using-shadows.md)
       * [☢️ SIGINT](readme/reconnaissance/passive-recon/sigint/README.md)
         * [Methodology](readme/reconnaissance/passive-recon/sigint/methodology.md)
+        * [Wifi](readme/reconnaissance/passive-recon/sigint/wifi/README.md)
+          * [Kismet](readme/reconnaissance/passive-recon/sigint/wifi/kismet.md)
       * [⛓️ DNS Recon and Route Mapping](readme/reconnaissance/passive-recon/dns-recon-and-route-mapping.md)
       * [👨‍💼 Obtain User Information](readme/reconnaissance/passive-recon/obtain-user-information.md)
       * [🕸️ Web Recon](readme/reconnaissance/passive-recon/web-recon.md)
