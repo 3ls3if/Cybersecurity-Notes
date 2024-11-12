@@ -1,4 +1,4 @@
-# 🕸 Web and Android Hacking
+# 🕸️ Web and Android Hacking
 
 ## Tools
 
@@ -18,6 +18,10 @@
 ## SQL Injection
 
 ### SQLMap
+
+#### SQLMap Command Generator (Online)
+
+* [https://acorzo1983.github.io/SQLMapCG/](https://acorzo1983.github.io/SQLMapCG/)
 
 #### Get Databases
 
