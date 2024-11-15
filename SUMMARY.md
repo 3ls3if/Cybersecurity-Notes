@@ -557,5 +557,8 @@
   * [Network Data](threat-hunting-research/network-data/README.md)
     * [Network Data Sources](threat-hunting-research/network-data/network-data-sources.md)
     * [Network Threat Hunting Too](threat-hunting-research/network-data/network-threat-hunting-too.md)
+    * [Hunting the Undetected](threat-hunting-research/network-data/hunting-the-undetected.md)
+    * [Protocols](threat-hunting-research/network-data/protocols.md)
+    * [Network Threat Hunts](threat-hunting-research/network-data/network-threat-hunts.md)
 * [🦅 CISA - INCIDENT RESPONSE PLAYBOOK](cisa-incident-response-playbook/README.md)
   * [Overview](cisa-incident-response-playbook/overview.md)

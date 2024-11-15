@@ -48,7 +48,7 @@ icon: globe
 
 ## Threat Hunting  in Infrastructure Logs
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Infrastructure Logs**: These are records of activities and events from various hardware and software in an IT environment, like routers, switches, firewalls, and endpoints. Think of them as a diary that notes everything happening in your network.\
   \
