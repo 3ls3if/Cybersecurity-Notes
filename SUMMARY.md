@@ -554,5 +554,8 @@
   * [Impact](advanced-persistent-threats-research/impact.md)
 * [👾 THREAT HUNTING - RESEARCH](threat-hunting-research/README.md)
   * [Azure Sentinel](threat-hunting-research/azure-sentinel.md)
+  * [Network Data](threat-hunting-research/network-data/README.md)
+    * [Network Data Sources](threat-hunting-research/network-data/network-data-sources.md)
+    * [Network Threat Hunting Too](threat-hunting-research/network-data/network-threat-hunting-too.md)
 * [🦅 CISA - INCIDENT RESPONSE PLAYBOOK](cisa-incident-response-playbook/README.md)
   * [Overview](cisa-incident-response-playbook/overview.md)

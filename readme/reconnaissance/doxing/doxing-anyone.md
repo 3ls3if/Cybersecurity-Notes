@@ -129,7 +129,7 @@ python3 dox_en.py
 # Select the required option from the menu
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p><strong>Doxxer-Toolkit Menu</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><strong>Doxxer-Toolkit Menu</strong></p></figcaption></figure>
 
 
 
