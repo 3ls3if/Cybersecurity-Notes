@@ -8,13 +8,13 @@ icon: dolphin
 
 Callback phishing is a cyberattack that tricks people into calling a phone number instead of clicking a malicious link in an email. The goal is to gain access to sensitive information, install malware, or gain remote access to the victim's device.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Callback Phising Lifecycle</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Callback Phising Lifecycle</p></figcaption></figure>
 
 
 
 ## Luna Moth Attack Flow
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Luna Moth Attack Flow</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Luna Moth Attack Flow</p></figcaption></figure>
 
 
 

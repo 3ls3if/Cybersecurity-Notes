@@ -4,7 +4,7 @@ icon: snake
 
 # Static Analysis using Slither
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Slither</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Slither</p></figcaption></figure>
 
 ## Introduction
 

@@ -6,7 +6,7 @@ icon: user-secret
 
 ## IOCs in Threat Hunting
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Pyramid of Pain:**
 
@@ -63,7 +63,7 @@ By regularly conducting threat hunts based on these baselines, you can proactive
 
 ## Least Frequency Analysis to Identify Outliers
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Least Frequency Analysis (LFO):** This technique helps in spotting unusual or rare items in large sets of data. It focuses on finding things that appear the least often, as these are more likely to be suspicious.\
   \

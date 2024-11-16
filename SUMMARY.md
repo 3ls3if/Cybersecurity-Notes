@@ -47,6 +47,8 @@
     * [☦️ Doxing](readme/reconnaissance/doxing/README.md)
       * [Doxing Anyone](readme/reconnaissance/doxing/doxing-anyone.md)
       * [Gmail Address](readme/reconnaissance/doxing/gmail-address.md)
+    * [🎥 Surveillance](readme/reconnaissance/surveillance/README.md)
+      * [Location Tracking Techniques](readme/reconnaissance/surveillance/location-tracking-techniques.md)
   * [🔢 Enumeration](readme/enumeration/README.md)
     * [🔅 Protocols and Ports](readme/enumeration/protocols-and-ports/README.md)
       * [21 - FTP](readme/enumeration/protocols-and-ports/21-ftp.md)
