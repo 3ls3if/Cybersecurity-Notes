@@ -582,5 +582,8 @@
       * [Community Data Sources](threat-hunting-research/data-collection/external-data/community-data-sources.md)
       * [Public Data Sources](threat-hunting-research/data-collection/external-data/public-data-sources.md)
     * [OSINT](threat-hunting-research/data-collection/osint.md)
+  * [Data Management and Processing](threat-hunting-research/data-management-and-processing/README.md)
+    * [Data Processing](threat-hunting-research/data-management-and-processing/data-processing.md)
+    * [Common CTI Standards](threat-hunting-research/data-management-and-processing/common-cti-standards.md)
 * [🦅 CISA - INCIDENT RESPONSE PLAYBOOK](cisa-incident-response-playbook/README.md)
   * [Overview](cisa-incident-response-playbook/overview.md)
