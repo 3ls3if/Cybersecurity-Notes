@@ -585,5 +585,7 @@
   * [Data Management and Processing](threat-hunting-research/data-management-and-processing/README.md)
     * [Data Processing](threat-hunting-research/data-management-and-processing/data-processing.md)
     * [Common CTI Standards](threat-hunting-research/data-management-and-processing/common-cti-standards.md)
+    * [Storage and Integration](threat-hunting-research/data-management-and-processing/storage-and-integration.md)
+    * [Threat Intelligence Platforms](threat-hunting-research/data-management-and-processing/threat-intelligence-platforms.md)
 * [🦅 CISA - INCIDENT RESPONSE PLAYBOOK](cisa-incident-response-playbook/README.md)
   * [Overview](cisa-incident-response-playbook/overview.md)
