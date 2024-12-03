@@ -1,3 +1,7 @@
+---
+icon: memory
+---
+
 # Memory Analysis - Volatility3
 
 ## Memory Analysis using Volatility3

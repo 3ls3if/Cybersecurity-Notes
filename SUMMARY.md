@@ -466,6 +466,7 @@
     * [💱 Blockchain Forensics](readme/digital-forensics/blockchain-forensics/README.md)
       * [🍾 Frontrunning/Sandwich Bot Finder](readme/digital-forensics/blockchain-forensics/frontrunning-sandwich-bot-finder.md)
     * [📝 Memory Forensics](readme/digital-forensics/memory-forensics/README.md)
+      * [Process](readme/digital-forensics/memory-forensics/process.md)
       * [Memory Analysis - Volatility3](readme/digital-forensics/memory-forensics/memory-analysis-volatility3.md)
     * [☄️ Network Forensics](readme/digital-forensics/network-forensics/README.md)
       * [Pcap Analysis](readme/digital-forensics/network-forensics/pcap-analysis.md)
