@@ -194,7 +194,7 @@
       * [Tasks](readme/ceh-mindmaps/vulnerability-analysis/tasks.md)
     * [🦸 System Hacking](readme/ceh-mindmaps/system-hacking/README.md)
       * [Tasks](readme/ceh-mindmaps/system-hacking/tasks.md)
-    * [\*️ \* \* Malware Analysis](readme/ceh-mindmaps/malware-analysis/README.md)
+    * [\*️ Malware Analysis](readme/ceh-mindmaps/malware-analysis/README.md)
       * [Tasks](readme/ceh-mindmaps/malware-analysis/tasks.md)
     * [❄️ Sniffing](readme/ceh-mindmaps/sniffing/README.md)
       * [Tasks](readme/ceh-mindmaps/sniffing/tasks.md)
