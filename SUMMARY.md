@@ -444,6 +444,8 @@
       * [RE Process](readme/reverse-engineering-and-malware-analysis/re-preparation/re-process.md)
       * [Malware Analysis Tools](readme/reverse-engineering-and-malware-analysis/re-preparation/malware-analysis-tools.md)
       * [Malware Components: Windows](readme/reverse-engineering-and-malware-analysis/re-preparation/malware-components-windows.md)
+    * [Shellcode Analysis](readme/reverse-engineering-and-malware-analysis/shellcode-analysis/README.md)
+      * [Automated Extraction](readme/reverse-engineering-and-malware-analysis/shellcode-analysis/automated-extraction.md)
     * [1️⃣ Disassembly and Disassembler](readme/reverse-engineering-and-malware-analysis/disassembly-and-disassembler.md)
     * [2️⃣ Binary Analysis](readme/reverse-engineering-and-malware-analysis/binary-analysis.md)
     * [🐧 Linux ELF Format](readme/reverse-engineering-and-malware-analysis/linux-elf-format.md)
