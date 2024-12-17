@@ -557,6 +557,7 @@
     * [R: Code Execution](real-world-and-and-ctf/scripts-and-systems/r-code-execution.md)
     * [Python2 Input Vulnerability](real-world-and-and-ctf/scripts-and-systems/python2-input-vulnerability.md)
 * [🦸 MISCELLANEOUS](miscellaneous/README.md)
+  * [Decrypt SSL Traffic](miscellaneous/decrypt-ssl-traffic.md)
   * [🏦 OpenSSL Commands](miscellaneous/openssl-commands.md)
   * [🔒 GPG](miscellaneous/gpg.md)
   * [🔐 SSH Commands](miscellaneous/ssh-commands.md)
