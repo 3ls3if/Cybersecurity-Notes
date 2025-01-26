@@ -329,6 +329,7 @@
     * [🐧 Privilege escalation: Linux](readme/post-exploitation/privilege-escalation-linux.md)
     * [🪟 Privilege escalation: Windows](readme/post-exploitation/privilege-escalation-windows.md)
     * [👾 PAC Tempering](readme/post-exploitation/pac-tempering.md)
+    * [Amnesiac - EDR Bypass](readme/post-exploitation/amnesiac-edr-bypass.md)
   * [🔓 Hashing & Password Cracking](readme/password-cracking/README.md)
     * [Hashing](readme/password-cracking/hashing.md)
     * [Custom Wordlist](readme/password-cracking/custom-wordlist.md)
