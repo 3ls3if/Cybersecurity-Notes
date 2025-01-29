@@ -383,6 +383,8 @@
         * [Resource Enumeration](readme/cloud-pentesting/aws-pentesting/post-compromise-recon/resource-enumeration.md)
         * [IAM Policy Enumeration](readme/cloud-pentesting/aws-pentesting/post-compromise-recon/iam-policy-enumeration.md)
         * [Identifying Public Resources](readme/cloud-pentesting/aws-pentesting/post-compromise-recon/identifying-public-resources.md)
+      * [S3 Buckets](readme/cloud-pentesting/aws-pentesting/s3-buckets/README.md)
+        * [S3 Bucket Misconfiguration](readme/cloud-pentesting/aws-pentesting/s3-buckets/s3-bucket-misconfiguration.md)
     * [🅰️ Azure Pentesting](readme/cloud-pentesting/azure-pentesting/README.md)
       * [Azure Attack Matrix](readme/cloud-pentesting/azure-pentesting/azure-attack-matrix.md)
       * [Stealing Access Tokens](readme/cloud-pentesting/azure-pentesting/stealing-access-tokens.md)
