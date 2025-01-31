@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👽 CS && PEN-TESING NOTES](README.md)
+* [👽 CS && PEN-TESING BOOK](README.md)
   * [🔍 Reconnaissance](readme/reconnaissance/README.md)
     * [🈴 Passive Recon](readme/reconnaissance/passive-recon/README.md)
       * [🕵️ OSINT](readme/reconnaissance/passive-recon/osint/README.md)
