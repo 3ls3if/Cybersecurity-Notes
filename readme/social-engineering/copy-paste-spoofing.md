@@ -19,7 +19,7 @@ icon: paste
 This happens due to **JavaScript event listeners**, which modify the clipboard content when you copy. Here’s an example of how this can be done:
 
 ```javascript
-javascriptCopyEditdocument.addEventListener("copy", function(event) {
+document.addEventListener("copy", function(event) {
     event.preventDefault();
     event.clipboardData.setData("text/plain", "malicious_command"); // Changes copied content
 });
@@ -31,12 +31,12 @@ javascriptCopyEditdocument.addEventListener("copy", function(event) {
   *   The site displays:
 
       ```
-      goCopyEditsudo apt install safe-package
+      sudo apt install safe-package
       ```
   *   But when pasted, it becomes:
 
       ```
-      nginxCopyEditsudo rm -rf / --no-preserve-root
+      sudo rm -rf / --no-preserve-root
       ```
 
       (which would wipe a Linux system!)
@@ -105,7 +105,7 @@ You can try this by saving it as an `.html` file and opening it in a browser.
 4.  **Paste it somewhere else**—you’ll see that it actually pastes:
 
     ```
-    bashCopyEditecho 'You have been hacked!'
+    echo 'You have been hacked!'
     ```
 5. **An alert box will pop up** when you copy, warning that the clipboard was modified.
 
@@ -116,8 +116,6 @@ You can try this by saving it as an `.html` file and opening it in a browser.
 ## Try the Code
 
 * [https://onecompiler.com/html/4386f4c77](https://onecompiler.com/html/4386f4c77)
-
-
 
 
 
