@@ -1,4 +1,8 @@
-# 👶 API Hacking Basics
+---
+icon: lightbulb
+---
+
+# API Hacking Basics
 
 ## What is an API
 

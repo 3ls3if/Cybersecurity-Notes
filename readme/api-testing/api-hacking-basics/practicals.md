@@ -1,3 +1,7 @@
+---
+icon: flask-gear
+---
+
 # Practicals
 
 ### Communicating with APIs
