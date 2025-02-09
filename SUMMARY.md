@@ -235,6 +235,8 @@
     * [🪟 Windows](readme/port-forwarding/windows.md)
     * [🔄 Router](readme/port-forwarding/router.md)
   * [👾 API Testing](readme/api-testing/README.md)
+    * [Reverse Engineering](readme/api-testing/reverse-engineering/README.md)
+      * [Reverse Engineer an API using MITMWEB and POSTMAN](readme/api-testing/reverse-engineering/reverse-engineer-an-api-using-mitmweb-and-postman.md)
     * [👶 API Hacking Basics](readme/api-testing/api-hacking-basics/README.md)
       * [Practicals](readme/api-testing/api-hacking-basics/practicals.md)
     * [🕵️‍♂️ API Recon](readme/api-testing/api-recon.md)
