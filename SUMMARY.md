@@ -3,6 +3,8 @@
 * [👽 CS && PEN-TESTING BOOK](README.md)
   * [🔍 Reconnaissance](readme/reconnaissance/README.md)
     * [🈴 Passive Recon](readme/reconnaissance/passive-recon/README.md)
+      * [M365/Azure Tenant Recon](readme/reconnaissance/passive-recon/m365-azure-tenant-recon/README.md)
+        * [MSFTRecon](readme/reconnaissance/passive-recon/m365-azure-tenant-recon/msftrecon.md)
       * [🕵️ OSINT](readme/reconnaissance/passive-recon/osint/README.md)
         * [Data Breach and Leaks Resources](readme/reconnaissance/passive-recon/osint/data-breach-and-leaks-resources.md)
         * [OSINT Tools and Resources](readme/reconnaissance/passive-recon/osint/osint-tools-and-resources.md)
