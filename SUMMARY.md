@@ -420,6 +420,8 @@
       * [3️⃣ 3⃣ 3⃣ Permissions](readme/linux-security/privilege-escalation/permissions.md)
       * [4️⃣ 4⃣ 4⃣ Logs](readme/linux-security/privilege-escalation/logs.md)
       * [5️⃣ 5⃣ 5⃣ Restricted Shell](readme/linux-security/privilege-escalation/restricted-shell.md)
+    * [Persistence](readme/linux-security/persistence/README.md)
+      * [D3m0n1z3dShell](readme/linux-security/persistence/d3m0n1z3dshell.md)
   * [📱 Android Security](readme/android-security/README.md)
     * [Android Pentesting Notes](readme/android-security/android-pentesting-notes.md)
     * [Android Application Pentesting Part 1](readme/android-security/android-application-pentesting-part-1/README.md)
