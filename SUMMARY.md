@@ -92,6 +92,7 @@
     * [Ngrok - Port Forwarding](readme/tunneling-and-exfiltration/ngrok-port-forwarding.md)
     * [CURL - Exfiltration](readme/tunneling-and-exfiltration/curl-exfiltration.md)
     * [Rclone - Data Exfiltration](readme/tunneling-and-exfiltration/rclone-data-exfiltration.md)
+    * [Data Bouncing - External Data Exfiltration](readme/tunneling-and-exfiltration/data-bouncing-external-data-exfiltration.md)
   * [Backdoors](readme/backdoors/README.md)
     * [Asymmetric Backdoor](readme/backdoors/asymmetric-backdoor.md)
   * [🎣 Pivoting (Post Exploitation)](readme/pivoting-post-exploitation/README.md)
