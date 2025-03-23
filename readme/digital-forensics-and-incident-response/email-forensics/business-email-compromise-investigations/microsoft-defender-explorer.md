@@ -55,4 +55,5 @@ icon: windows
 ## REFERENCES
 
 * [https://learn.microsoft.com/en-us/defender-office-365/step-by-step-guides/search-for-emails-and-remediate-threats](https://learn.microsoft.com/en-us/defender-office-365/step-by-step-guides/search-for-emails-and-remediate-threats)
+* [https://practical365.com/threat-explorer-microsoft-defender/](https://practical365.com/threat-explorer-microsoft-defender/)
 
