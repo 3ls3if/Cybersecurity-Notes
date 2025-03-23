@@ -479,6 +479,7 @@
       * [Callback Phishing](readme/digital-forensics/email-forensics/callback-phishing.md)
       * [Business Email Investigations](readme/digital-forensics/email-forensics/business-email-investigations/README.md)
         * [Investigating using Hawk](readme/digital-forensics/email-forensics/business-email-investigations/investigating-using-hawk.md)
+        * [Microsoft Defender Explorer](readme/digital-forensics/email-forensics/business-email-investigations/microsoft-defender-explorer.md)
     * [💸 Ransomware Forensics](readme/digital-forensics/ransomware-forensics/README.md)
       * [Decrypting Intermittent Encryption](readme/digital-forensics/ransomware-forensics/decrypting-intermittent-encryption.md)
     * [💱 Blockchain Forensics](readme/digital-forensics/blockchain-forensics/README.md)
