@@ -605,6 +605,7 @@
   * [Data exfiltration](advanced-persistent-threats-research/data-exfiltration.md)
   * [Impact](advanced-persistent-threats-research/impact.md)
 * [👾 THREAT HUNTING - RESEARCH](threat-hunting-research/README.md)
+  * [MacOS](threat-hunting-research/macos.md)
   * [Azure Sentinel](threat-hunting-research/azure-sentinel.md)
   * [Network Data](threat-hunting-research/network-data/README.md)
     * [Network Data Sources](threat-hunting-research/network-data/network-data-sources.md)
