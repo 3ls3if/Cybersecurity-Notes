@@ -101,4 +101,4 @@ After reboot, (and maybe several tests to identify which process/driver to block
 ## REFERENCES
 
 * [https://red.infiltr8.io/redteam/evasion/endpoint-detection-respons-edr-bypass/windows-defender-application-control-wdac-killing-edr](https://red.infiltr8.io/redteam/evasion/endpoint-detection-respons-edr-bypass/windows-defender-application-control-wdac-killing-edr)
-
+* [https://beierle.win/2024-12-20-Weaponizing-WDAC-Killing-the-Dreams-of-EDR/#local-machine](https://beierle.win/2024-12-20-Weaponizing-WDAC-Killing-the-Dreams-of-EDR/#local-machine)
