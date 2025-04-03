@@ -332,6 +332,7 @@
     * [OWASP-ZSC](readme/evasion/owasp-zsc.md)
     * [AMSI Bypass](readme/evasion/amsi-bypass.md)
     * [Windows Evasion](readme/evasion/windows-evasion.md)
+    * [Windows Defender Application Control (WDAC): Killing EDR](readme/evasion/windows-defender-application-control-wdac-killing-edr.md)
   * [🚪 Post exploitation](readme/post-exploitation/README.md)
     * [🛬 Living Off The Land Tools](readme/post-exploitation/living-off-the-land-tools.md)
     * [🥝 Mimikatz](readme/post-exploitation/mimikatz.md)
