@@ -81,6 +81,7 @@
   * [🕎 Vulnerability Scanning](readme/vulnerability-scanning/README.md)
     * [⚛️ Nuclei](readme/vulnerability-scanning/nuclei.md)
     * [⛵ Tsunami Security Scanner](readme/vulnerability-scanning/tsunami-security-scanner.md)
+    * [Hunting and Exploiting Vulnerable Windows Drivers](readme/vulnerability-scanning/hunting-and-exploiting-vulnerable-windows-drivers.md)
   * [🕳️ Tunneling & Exfiltration](readme/tunneling-and-exfiltration/README.md)
     * [SSH Tunneling](readme/tunneling-and-exfiltration/ssh-tunneling.md)
     * [ICMP Exfiltration](readme/tunneling-and-exfiltration/icmp-exfiltration.md)
