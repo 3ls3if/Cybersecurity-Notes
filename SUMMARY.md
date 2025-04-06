@@ -430,6 +430,8 @@
   * [🍎 MacOS Security](readme/macos-security/README.md)
     * [Endpoint Security](readme/macos-security/endpoint-security/README.md)
       * [eslogger](readme/macos-security/endpoint-security/eslogger.md)
+    * [Gaining Access](readme/macos-security/gaining-access/README.md)
+      * [Setup and weaponize Mythic C2 using DarwinOps to target MacOS](readme/macos-security/gaining-access/setup-and-weaponize-mythic-c2-using-darwinops-to-target-macos.md)
   * [📱 Android Security](readme/android-security/README.md)
     * [Android Pentesting Notes](readme/android-security/android-pentesting-notes.md)
     * [Android Application Pentesting Part 1](readme/android-security/android-application-pentesting-part-1/README.md)
