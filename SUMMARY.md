@@ -342,6 +342,7 @@
     * [🪟 Privilege escalation: Windows](readme/post-exploitation/privilege-escalation-windows.md)
     * [👾 PAC Tempering](readme/post-exploitation/pac-tempering.md)
     * [Amnesiac - EDR Bypass](readme/post-exploitation/amnesiac-edr-bypass.md)
+    * [GraphRunner: A Post-Exploitation Toolset for Microsoft 365](readme/post-exploitation/graphrunner-a-post-exploitation-toolset-for-microsoft-365.md)
   * [🔓 Hashing & Password Cracking](readme/password-cracking/README.md)
     * [Hashing](readme/password-cracking/hashing.md)
     * [Custom Wordlist](readme/password-cracking/custom-wordlist.md)
