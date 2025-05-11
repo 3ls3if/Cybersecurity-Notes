@@ -104,6 +104,7 @@
     * [Chisel - Double Pivoting](readme/pivoting-post-exploitation/chisel-double-pivoting.md)
     * [Bypassing Firewall with Forward Relays](readme/pivoting-post-exploitation/bypassing-firewall-with-forward-relays.md)
     * [Reverse Relays - Metasploit](readme/pivoting-post-exploitation/reverse-relays-metasploit.md)
+    * [Pivoting using Ligolo-Ng](readme/pivoting-post-exploitation/pivoting-using-ligolo-ng.md)
   * [🎯 Active Directory Pentesting](readme/active-directory-pentesting/README.md)
     * [🔑 Crendentials](readme/active-directory-pentesting/crendentials/README.md)
       * [Group Policy Preferences](readme/active-directory-pentesting/crendentials/group-policy-preferences.md)
