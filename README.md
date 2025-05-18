@@ -4,13 +4,11 @@ cover: >-
 coverY: 0
 ---
 
-# 👽 CS && PEN-TESING NOTES
+# 👽 CS && PEN-TESTING BOOK
 
 ## About the Author
 
-> **Update:** The blog posts are now managed by members of the Ahom Cyber Security Society (ACSS).
-
-<figure><img src=".gitbook/assets/output-onlinepngtools (1).png" alt="" width="431"><figcaption><p><strong>Ahom Cyber Security Society</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/github_PP2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Connect with Author
 
