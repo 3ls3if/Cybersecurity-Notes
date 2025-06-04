@@ -124,6 +124,7 @@
     * [🎓 Advanced Penetration Testing](readme/active-directory-pentesting/advanced-penetration-testing.md)
     * [🔧 Automated Tools](readme/active-directory-pentesting/automated-tools/README.md)
       * [ADCS Exploitation Tool](readme/active-directory-pentesting/automated-tools/adcs-exploitation-tool.md)
+      * [BadSuccessor – Full Active Directory Compromise](readme/active-directory-pentesting/automated-tools/badsuccessor-full-active-directory-compromise.md)
     * [Hacking Active Directory Environment](readme/active-directory-pentesting/hacking-active-directory-environment/README.md)
       * [🕵️ Enumeration](readme/active-directory-pentesting/hacking-active-directory-environment/enumeration.md)
       * [🦸 Exploitation](readme/active-directory-pentesting/hacking-active-directory-environment/exploitation.md)
