@@ -538,6 +538,8 @@
     * [Bypassing Mark of the Web with 7zip CVE-2025-0411](readme/cves/bypassing-mark-of-the-web-with-7zip-cve-2025-0411.md)
     * [CVE-2025-24054, NTLM Exploit in the Wild](readme/cves/cve-2025-24054-ntlm-exploit-in-the-wild.md)
   * [🐛 OWASP TOP 10](readme/owasp-top-10/README.md)
+    * [LLM](readme/owasp-top-10/llm/README.md)
+      * [OWASP Top 10 for LLM Applications](readme/owasp-top-10/llm/owasp-top-10-for-llm-applications.md)
     * [🕸️ WEB](readme/owasp-top-10/web/README.md)
       * [1️⃣ A01:2021 – Broken Access Control](readme/owasp-top-10/web/a01-2021-broken-access-control.md)
       * [2️⃣ A02:2021 – Cryptographic Failures](readme/owasp-top-10/web/a02-2021-cryptographic-failures.md)
