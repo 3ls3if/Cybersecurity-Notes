@@ -540,6 +540,8 @@
   * [🐛 OWASP TOP 10](readme/owasp-top-10/README.md)
     * [LLM](readme/owasp-top-10/llm/README.md)
       * [OWASP Top 10 for LLM Applications](readme/owasp-top-10/llm/owasp-top-10-for-llm-applications.md)
+    * [Machine Learning](readme/owasp-top-10/machine-learning/README.md)
+      * [OWASP Machine Learning Security Top Ten](readme/owasp-top-10/machine-learning/owasp-machine-learning-security-top-ten.md)
     * [🕸️ WEB](readme/owasp-top-10/web/README.md)
       * [1️⃣ A01:2021 – Broken Access Control](readme/owasp-top-10/web/a01-2021-broken-access-control.md)
       * [2️⃣ A02:2021 – Cryptographic Failures](readme/owasp-top-10/web/a02-2021-cryptographic-failures.md)
