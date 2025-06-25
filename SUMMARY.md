@@ -239,6 +239,7 @@
     * [🏛️ OpenSSL](readme/network-security/openssl.md)
     * [👩‍🚒 Active Directory](readme/network-security/active-directory/README.md)
       * [LAPS](readme/network-security/active-directory/laps.md)
+    * [Decrypting SSL/TLS traffic using Wireshark and private keys](readme/network-security/decrypting-ssl-tls-traffic-using-wireshark-and-private-keys.md)
   * [🛂 Port Forwarding](readme/port-forwarding/README.md)
     * [🐧 Linux](readme/port-forwarding/linux.md)
     * [🪟 Windows](readme/port-forwarding/windows.md)
