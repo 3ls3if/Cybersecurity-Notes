@@ -50,3 +50,4 @@ For more information, refer to the [Wireshark TLS wiki](https://wiki.wireshark.o
 ## REFERENCES
 
 * [https://my.f5.com/manage/s/article/K19310681](https://my.f5.com/manage/s/article/K19310681)
+* [https://isc.sans.edu/diary/Psst+Your+Browser+Knows+All+Your+Secrets+/16415](https://isc.sans.edu/diary/Psst+Your+Browser+Knows+All+Your+Secrets+/16415)
