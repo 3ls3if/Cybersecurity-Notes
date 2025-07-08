@@ -78,6 +78,7 @@
   * [☮️ Public Exploits](readme/public-exploits/README.md)
     * [Look for Public Exploits](readme/public-exploits/look-for-public-exploits.md)
     * [Metasploit](readme/public-exploits/metasploit.md)
+    * [Sploitscan – Cybersecurity Utility To Identify Exploits For Known Vulnerabilities](readme/public-exploits/sploitscan-cybersecurity-utility-to-identify-exploits-for-known-vulnerabilities.md)
   * [🕎 Vulnerability Scanning](readme/vulnerability-scanning/README.md)
     * [⚛️ Nuclei](readme/vulnerability-scanning/nuclei.md)
     * [⛵ Tsunami Security Scanner](readme/vulnerability-scanning/tsunami-security-scanner.md)
