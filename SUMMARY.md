@@ -328,6 +328,7 @@
     * [Bluetooth Attacks](readme/wireless-hacking/bluetooth-attacks/README.md)
       * [BlueDucky Script](readme/wireless-hacking/bluetooth-attacks/blueducky-script.md)
     * [RFID Attacks](readme/wireless-hacking/rfid-attacks.md)
+    * [Spoof-and-Jam: The Alarming Reality of Airplane Datalink Vulnerabilities](readme/wireless-hacking/spoof-and-jam-the-alarming-reality-of-airplane-datalink-vulnerabilities.md)
   * [🏁 CEH Engage Walkthroughs](readme/ceh-engage-walkthrough/README.md)
     * [1️⃣ CEH Engage Part 1](readme/ceh-engage-walkthrough/ceh-engage-part-1.md)
     * [2️⃣ CEH Engage Part 2](readme/ceh-engage-walkthrough/ceh-engage-part-2.md)
