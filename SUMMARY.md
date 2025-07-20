@@ -241,6 +241,7 @@
     * [👩‍🚒 Active Directory](readme/network-security/active-directory/README.md)
       * [LAPS](readme/network-security/active-directory/laps.md)
     * [Decrypting SSL/TLS traffic using Wireshark and private keys](readme/network-security/decrypting-ssl-tls-traffic-using-wireshark-and-private-keys.md)
+    * [🦈 How To Convert Windows netsh Event Trace Log (ETL) Files For Wireshark Analysis](readme/network-security/how-to-convert-windows-netsh-event-trace-log-etl-files-for-wireshark-analysis.md)
   * [🛂 Port Forwarding](readme/port-forwarding/README.md)
     * [🐧 Linux](readme/port-forwarding/linux.md)
     * [🪟 Windows](readme/port-forwarding/windows.md)
