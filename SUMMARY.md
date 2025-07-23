@@ -97,6 +97,8 @@
     * [Data Bouncing - External Data Exfiltration](readme/tunneling-and-exfiltration/data-bouncing-external-data-exfiltration.md)
   * [Backdoors](readme/backdoors/README.md)
     * [Asymmetric Backdoor](readme/backdoors/asymmetric-backdoor.md)
+  * [🌠 Exploiting VPNs](readme/exploiting-vpns/README.md)
+    * [VPN Hacking: How VPN’s Work](readme/exploiting-vpns/vpn-hacking-how-vpns-work.md)
   * [🎣 Pivoting (Post Exploitation)](readme/pivoting-post-exploitation/README.md)
     * [Using Metasploit](readme/pivoting-post-exploitation/using-metasploit.md)
     * [SOCKS, SSH - Pivoting](readme/pivoting-post-exploitation/socks-ssh-pivoting.md)
