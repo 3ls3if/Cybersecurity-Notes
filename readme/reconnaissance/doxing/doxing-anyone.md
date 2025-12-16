@@ -76,6 +76,7 @@ End
 * [**Dehashed**](https://www.dehashed.com/): Breach data search (requires subscription).
 * **EmailHippo**: Email verification tool.
 * [**Voila Norbert**](https://www.voilanorbert.com/): Email search and verification tool.
+* [**Hudson Rock**](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools): Check if a specific asset was compromised by the Infostealer malware (free)
 
 #### Reverse Image Search and Metadata
 
