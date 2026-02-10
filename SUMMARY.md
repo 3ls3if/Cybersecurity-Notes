@@ -157,6 +157,7 @@
     * [Copy-Paste Spoofing](readme/social-engineering/copy-paste-spoofing.md)
     * [Browser In-The Browser Attack (BITB)](readme/social-engineering/browser-in-the-browser-attack-bitb/README.md)
       * [Office365 Phishing - Browser in the Browser](readme/social-engineering/browser-in-the-browser-attack-bitb/office365-phishing-browser-in-the-browser.md)
+      * [BITB-framwork](readme/social-engineering/browser-in-the-browser-attack-bitb/bitb-framwork.md)
   * [🗺️ CEH Mindmaps](readme/ceh-mindmaps/README.md)
     * [ℹ️ Recon and Information Gathering](readme/ceh-mindmaps/recon-and-information-gathering/README.md)
       * [Lab 1: Perform Footprinting Through Search Engines](readme/ceh-mindmaps/recon-and-information-gathering/lab-1-perform-footprinting-through-search-engines/README.md)
