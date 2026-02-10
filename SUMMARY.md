@@ -95,6 +95,7 @@
     * [CURL - Exfiltration](readme/tunneling-and-exfiltration/curl-exfiltration.md)
     * [Rclone - Data Exfiltration](readme/tunneling-and-exfiltration/rclone-data-exfiltration.md)
     * [Data Bouncing - External Data Exfiltration](readme/tunneling-and-exfiltration/data-bouncing-external-data-exfiltration.md)
+    * [Expose Localhost to Internet](readme/tunneling-and-exfiltration/expose-localhost-to-internet.md)
   * [Backdoors](readme/backdoors/README.md)
     * [Asymmetric Backdoor](readme/backdoors/asymmetric-backdoor.md)
   * [🌠 Exploiting VPNs](readme/exploiting-vpns/README.md)
