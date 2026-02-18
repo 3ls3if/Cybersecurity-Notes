@@ -15,16 +15,13 @@ icon: standard-definition
    * **CVSS (Common Vulnerability Scoring System):**
      * Measures the severity of vulnerabilities using three metrics: base, temporal, and environmental.
      * Scores range from 0 to 10, with 10 being the most critical.
-     * Example: Bluekeep (CVE-2019-0708) has a critical score of 9.8.\
-
+     * Example: Bluekeep (CVE-2019-0708) has a critical score of 9.8.<br>
 3. **Threat Description or Taxonomy Standards**:
    * **OpenIOC**:
      * Introduced by Mandiant in 2011.
-     * Provides a standard format for describing threat artifacts using an XML schema.\
-
+     * Provides a standard format for describing threat artifacts using an XML schema.<br>
    * **CybOX (Cyber Observable Expression)**:
-     * Standardized language for representing observables, now integrated into STIX 2.0.\
-
+     * Standardized language for representing observables, now integrated into STIX 2.0.<br>
    *   **STIX (Structured Threat Information Expression)**:
 
        * Structured language for describing cyber threat information.
@@ -38,8 +35,7 @@ icon: standard-definition
      * **Red**: Information is highly sensitive and should only be used by you. Do not share it with anyone, even within your organization.
      * **Amber**: Information can be shared within your organization on a need-to-know basis and with clients or customers who need it to protect themselves.
      * **Green**: Information is not very sensitive and can be shared with partners or peers, but not via public channels like websites.
-     * **White**: Information is public and can be shared freely, considering standard copyright rules.\
-
+     * **White**: Information is public and can be shared freely, considering standard copyright rules.<br>
 5. **Trusted Automated Exchange of Indicator Information (TAXII)**:
    * **Purpose**: TAXII is an application protocol for exchanging threat intelligence over HTTPS. It defines a RESTful API and requirements for TAXII clients and servers.
    * **Key Features**:

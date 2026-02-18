@@ -50,6 +50,5 @@ icon: piggy-bank
 **Key Takeaways**
 
 * **No Standardization**: There is no way to standardize all threat actor names due to various human, technical, and operational reasons.
-* **Importance of Flexibility**: Being creative and flexible in naming conventions can help in better tracking and analysis.\
-
+* **Importance of Flexibility**: Being creative and flexible in naming conventions can help in better tracking and analysis.<br>
 

@@ -14,8 +14,7 @@ The October 2022 release of macOS 13.0, named Ventura, includes _eslogger_: _“
 
 For the first eslogger test, we set up our system to examine events that the system creates while performing standard operations, such as opening folders and reading files.
 
-Before eslogger can function, the app that executes eslogger must have full disk access. We granted this access to the Terminal app:\
-
+Before eslogger can function, the app that executes eslogger must have full disk access. We granted this access to the Terminal app:<br>
 
 <figure><img src="https://www.cybereason.com/hs-fs/hubfs/image7-Oct-03-2022-04-45-09-68-PM.png?width=588&#x26;name=image7-Oct-03-2022-04-45-09-68-PM.png" alt=""><figcaption></figcaption></figure>
 

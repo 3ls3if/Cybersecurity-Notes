@@ -34,8 +34,7 @@ icon: wheat-awn-circle-exclamation
 
 
    * **TTP Analysis (Tactics, Techniques, and Procedures):**
-     * **Concept:** Study the methods used by cyber criminals and look for signs that they may be using similar methods in your network.\
-
+     * **Concept:** Study the methods used by cyber criminals and look for signs that they may be using similar methods in your network.<br>
 3. **Tools:**
    * **Variety:** There are many tools available for threat hunting, from advanced analytics platforms to open-source software.
    * **Key:** Choose tools that fit your needs and integrate well with your existing systems.
@@ -47,8 +46,7 @@ icon: wheat-awn-circle-exclamation
 * **Skepticism:** Be skeptical and constantly ask, "What if?"
 * **Analogy:** Think like an attacker to anticipate their moves and find potential threats.
 
-\
-
+<br>
 
 {% hint style="success" %}
 By understanding these key concepts, techniques, and tools, you can take a more proactive approach to protecting your organization.
@@ -70,8 +68,7 @@ By understanding these key concepts, techniques, and tools, you can take a more 
 
 2. **Gathering Data:**
    * **Concept:** Collect logs, network traffic, and other relevant information from your systems.
-   * **Purpose:** The goal is to find evidence that either supports or refutes your hypothesis. Think of it like gathering puzzle pieces to see the bigger picture.\
-
+   * **Purpose:** The goal is to find evidence that either supports or refutes your hypothesis. Think of it like gathering puzzle pieces to see the bigger picture.<br>
 3. **Analyzing Data:**
    *   **Anomaly Detection:**
 
@@ -79,8 +76,7 @@ By understanding these key concepts, techniques, and tools, you can take a more 
 
 
    * **TTP Analysis (Tactics, Techniques, and Procedures):**
-     * **Concept:** Study the methods used by cyber criminals and look for similar signs in your network. This helps you identify potential threats based on known attack patterns.\
-
+     * **Concept:** Study the methods used by cyber criminals and look for similar signs in your network. This helps you identify potential threats based on known attack patterns.<br>
 4.  **Maintaining a Proactive Mindset:**
 
     * **Curiosity:** Always be curious and willing to dig deeper.
@@ -111,18 +107,15 @@ By understanding and following these stages, you can proactively search for pote
 1. **Security Information and Event Management (SIEM) Systems:**
    * **Function:** Collect and analyze log data from various sources within your network, providing a centralized view of your security landscape.
    * **Example:** Microsoft Sentinel in Azure.
-     * **Capabilities:** Collects and analyzes large volumes of data, identifies advanced threats and anomalies using built-in machine learning algorithms, and can automate incident response and remediation.\
-
+     * **Capabilities:** Collects and analyzes large volumes of data, identifies advanced threats and anomalies using built-in machine learning algorithms, and can automate incident response and remediation.<br>
 2. **Network Traffic Analyzers:**
    * **Function:** Monitor and scrutinize data flowing through your network in real time.
    * **Example:** Wireshark.
-     * **Capabilities:** Allows deep inspection of network traffic, decoding various protocols, and filtering packets for analysis. It's a popular choice among security professionals and network administrators.\
-
+     * **Capabilities:** Allows deep inspection of network traffic, decoding various protocols, and filtering packets for analysis. It's a popular choice among security professionals and network administrators.<br>
 3. **Endpoint Detection and Response (EDR) Solutions:**
    * **Function:** Monitor endpoint devices for suspicious behavior and provide detailed forensic information about potential threats.
    * **Example:** Microsoft Defender for Endpoint.
-     * **Capabilities:** Helps defend against advanced persistent threats by investigating alerts, tracking attacker activity, and containing incidents.\
-
+     * **Capabilities:** Helps defend against advanced persistent threats by investigating alerts, tracking attacker activity, and containing incidents.<br>
 4. **Disassemblers or Debuggers:**
    * **Function:** Analyze malware at a low level, understanding its code and functionality.
    * **Examples:** IDA or Ghidra.
@@ -132,17 +125,14 @@ By understanding and following these stages, you can proactively search for pote
 **Techniques for Effective Threat Hunting**
 
 1. **Analyzing Logs:**
-   * **Purpose:** Logs provide a record of events that have occurred within your network, which can be analyzed to identify unusual patterns or behaviors.\
-
+   * **Purpose:** Logs provide a record of events that have occurred within your network, which can be analyzed to identify unusual patterns or behaviors.<br>
 2. **Monitoring Network Traffic:**
-   * **Purpose:** By examining network traffic, you can spot unusual activities, such as unexpected data transfers or communication with suspicious IP addresses.\
-
+   * **Purpose:** By examining network traffic, you can spot unusual activities, such as unexpected data transfers or communication with suspicious IP addresses.<br>
 3.  **Advanced Querying:**
 
     * **Purpose:** Use advanced queries to detect anomalies in the data collected by SIEM systems, network traffic analyzers, and EDR solutions.
 
-    \
-
+    <br>
 
 {% hint style="success" %}
 By understanding and utilizing these tools and techniques, you can effectively hunt for threats within your network, identify potential risks, and respond proactively to protect your organization.

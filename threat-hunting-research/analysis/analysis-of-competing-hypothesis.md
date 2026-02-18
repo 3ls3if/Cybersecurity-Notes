@@ -27,6 +27,5 @@ The Wannacry ransomware incident is used as an example. Four hypotheses were con
 
 \
 After comparing the evidence, H2 (unsophisticated financially-motivated cyber criminal actor) was found to be the strongest hypothesis.\
-\
-
+<br>
 

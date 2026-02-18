@@ -18,8 +18,7 @@ Weaponized Microsoft Word documents with embedded RTF (Rich Text Format) exploit
 
 **Example Scenario**
 
-Imagine an adversary sends a phishing email to a target with a subject line like "Important Document for Review." The email contains a Microsoft Word attachment named "Important\_Document.docx." When the target opens the document, the embedded RTF exploit is triggered, and malware is downloaded and executed on the system.\
-
+Imagine an adversary sends a phishing email to a target with a subject line like "Important Document for Review." The email contains a Microsoft Word attachment named "Important\_Document.docx." When the target opens the document, the embedded RTF exploit is triggered, and malware is downloaded and executed on the system.<br>
 
 ***
 

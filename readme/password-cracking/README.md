@@ -1,4 +1,4 @@
-# 🔓 Password Cracking
+# 🔓 Hashing & Password Cracking
 
 * ```
   hash-identifier [hash]
@@ -13,7 +13,7 @@
   hashcat -m 1000 dump.txt -o output.txt --remove -a 3 ?u?l?l?d?d?d?d
   ```
   * Brute force crack for NTLM hashes with an uppercase, lowercase, lowercase, and 4 digit mask
-* List of hash types and examples for hashcat [https://hashcat.net/wiki/doku.php?id=example\_hashes ](https://hashcat.net/wiki/doku.php?id=example\_hashes)
+* List of hash types and examples for hashcat [https://hashcat.net/wiki/doku.php?id=example\_hashes ](https://hashcat.net/wiki/doku.php?id=example_hashes)
 * [https://hashkiller.co.uk](https://hashkiller.co.uk/) has a good repo of already cracked MD5 and NTLM hashes
 
 #### **Bruteforcing:** <a href="#toc475368995" id="toc475368995"></a>
@@ -29,4 +29,4 @@
   ```
   * Hydra SMTP Brute force
 
-\
+<br>

@@ -16,22 +16,18 @@ icon: bars-progress
       * Open the Group Policy Management console.
       * Navigate to the Default Domain Controllers Policy.
       * Right-click and select Edit.
-      * Under Computer Configuration, expand Policies > Windows Settings > Security Settings > Advanced Audit Policy Configuration.\
-
+      * Under Computer Configuration, expand Policies > Windows Settings > Security Settings > Advanced Audit Policy Configuration.<br>
     * **Audit Policies to Configure:**
       * **Account Logon**
       * **Account Management**
       * **Directory Service Access**
       * **Logon/Logoff**
       * **Object Access**
-      * **Policy Change**\
-
+      * **Policy Change**<br>
     * **Tip:** Enable both success and failure events for comprehensive logging.
 
-    \
-
-2.  **Configure System Access Control Lists (SACLs):**\
-
+    <br>
+2.  **Configure System Access Control Lists (SACLs):**<br>
 
     * **How to Configure:**
       * Open Active Directory Users and Computers.
@@ -41,8 +37,7 @@ icon: bars-progress
       * Add a new auditing entry, select principal as everyone, and configure permissions to audit successful and failed attempts to read, write, and modify the object.
 
 
-3. **Monitor Logs for Signs of Compromise:**\
-
+3. **Monitor Logs for Signs of Compromise:**<br>
    *   **Where to Monitor:**
 
        * Open Event Viewer and navigate to Windows Logs > Security.
@@ -55,15 +50,13 @@ icon: bars-progress
        * **4732 and 4733:** User added or removed from a security-enabled global group (could indicate unauthorized changes).
 
 
-4.  **Use SIEM Tools for Streamlined Monitoring:**\
-
+4.  **Use SIEM Tools for Streamlined Monitoring:**<br>
 
     * **Examples:** Microsoft Sentinel, Elastic SIEM, Splunk.
     * **Function:** Aggregate logs from multiple sources, correlate events, and generate alerts for suspicious activities.
 
 
-5.  **Regularly Review Audit Logs and Alerts:**\
-
+5.  **Regularly Review Audit Logs and Alerts:**<br>
 
     * **Purpose:** Ensure auditing settings remain effective and no unauthorized changes have been made.
 
@@ -94,8 +87,7 @@ By following these steps, you can effectively audit and monitor Active Directory
    * **Event ID 2042:** Shows that replication has been stopped, which could lead to data inconsistencies.
    * **Event ID 1311:** Indicates problems with the AD replication process, potentially disrupting data synchronization.
    * **Event ID 1566:** Signifies that AD replication hasn't occurred for a significant period, suggesting network issues or configuration problems.
-   * **Event ID 2040:** Indicates a mismatch in the AD schema, preventing updates to directory service objects.\
-
+   * **Event ID 2040:** Indicates a mismatch in the AD schema, preventing updates to directory service objects.<br>
 3. **Importance of These Events:**
    * **Replication Issues:** Can lead to inconsistencies in the AD database, which attackers might exploit to inject or delete malicious objects.
    * **Schema Mismatches:** Can cause operational issues and be exploited to bypass security controls.
@@ -104,8 +96,7 @@ By following these steps, you can effectively audit and monitor Active Directory
 **Key Takeaway:**&#x20;
 
 The presence of these events doesn't necessarily mean an attack is happening but can help you form hypotheses for further analysis.\
-\
-
+<br>
 
 {% hint style="success" %}
 By understanding these logs and events, you can effectively monitor and identify potential threats in your AD environment.
@@ -134,8 +125,7 @@ By understanding these logs and events, you can effectively monitor and identify
 
 3. **Pass-the-Hash Technique:**
    * **Concept:** The attacker uses the NTLM hash of a user's password to authenticate without knowing the actual password.
-   * **Tools:** SecSec or WMI can be used to execute commands on remote systems.\
-
+   * **Tools:** SecSec or WMI can be used to execute commands on remote systems.<br>
 4. **Example:**
    * **Event Viewer:** An extract from the Event Viewer in Windows shows a successful logon attempt.
    * **Key Fields:**
@@ -148,12 +138,10 @@ By understanding these logs and events, you can effectively monitor and identify
 **Privilege Escalation**
 
 1. **Definition:**
-   * **Privilege Escalation:** Gaining higher-level permissions than initially granted, often by exploiting vulnerabilities or misconfigurations.\
-
+   * **Privilege Escalation:** Gaining higher-level permissions than initially granted, often by exploiting vulnerabilities or misconfigurations.<br>
 2. **Common Methods:**
    * **Misconfigured Group Policy Objects (GPOs):** Attackers target GPOs or exploit vulnerabilities in services running with elevated privileges.
-   * **JuicyPotato Exploit:** Used to gain system-level access on a Windows machine.\
-
+   * **JuicyPotato Exploit:** Used to gain system-level access on a Windows machine.<br>
 3. **Example:**
    * **Event Viewer:** An event shows a fictitious user called compromised\_user logging on and being assigned special privileges.
    * **Key Privileges:**
@@ -167,8 +155,7 @@ By understanding these logs and events, you can effectively monitor and identify
    * Check the source, network address, and workstation name to verify if the login attempt is legitimate.
    * Review recent activity for the admin account for unusual logon attempts or actions.
    * Investigate any unusual activity involving the lsass.exe process.
-   * Analyze network traffic for unusual patterns or connections from the source address.\
-
+   * Analyze network traffic for unusual patterns or connections from the source address.<br>
 2.  **For Privilege Escalation:**
 
     * Determine if the compromised user should have these privileges.
@@ -178,8 +165,7 @@ By understanding these logs and events, you can effectively monitor and identify
     * Check for changes to local or domain security policies.
     * Analyze network traffic to and from the target machine for suspicious activity.
 
-    \
-
+    <br>
 
 {% hint style="success" %}
 By understanding these concepts and steps, you can better identify and respond to lateral movement and privilege escalation attempts in your Active Directory environment.
@@ -193,20 +179,17 @@ By understanding these concepts and steps, you can better identify and respond t
 
 
 
-**Kerberos and Kerberoasting Explained**\
-
+**Kerberos and Kerberoasting Explained**<br>
 
 1. **What is Kerberos?**
    * **Purpose:** Kerberos is a network authentication protocol used to verify the identity of users and services in a secure manner.
-   * **Process:** When a user (like Alice) wants to access a resource (like an Excel workbook on a server), Kerberos assigns a ticket to the user, which is then used to authenticate and authorize access to the resource.\
-
+   * **Process:** When a user (like Alice) wants to access a resource (like an Excel workbook on a server), Kerberos assigns a ticket to the user, which is then used to authenticate and authorize access to the resource.<br>
 2. **Kerberoasting Attack:**
    * **Concept:** An attacker tries to obtain a valid Kerberos ticket and crack its encryption to gain access to a user's password.
    * **Steps:**
      * **Initial Access:** The attacker must first gain access to the Active Directory (AD).
      * **Requesting Tickets:** The attacker requests Kerberos service tickets for accounts with ServicePrincipalName (SPN) attributes.
-     * **Cracking Tickets:** The service tickets are encrypted with the hash of the service account's password. If the password is weak, the attacker can crack the ticket offline to retrieve the password.\
-
+     * **Cracking Tickets:** The service tickets are encrypted with the hash of the service account's password. If the password is weak, the attacker can crack the ticket offline to retrieve the password.<br>
 3. **Identifying Vulnerable Accounts:**
 
 <figure><img src="../../.gitbook/assets/image (240).png" alt=""><figcaption><p>Powershell Script</p></figcaption></figure>
@@ -241,8 +224,7 @@ By understanding these concepts and using the provided PowerShell script, you ca
 
 1. **What are GPOs?**
    * **Definition:** Group Policy Objects are a powerful feature in Active Directory that allow administrators to manage and configure operating systems, applications, and user settings.
-   * **Importance:** They help in organizing and enforcing policies across the network, making them a critical component of network management.\
-
+   * **Importance:** They help in organizing and enforcing policies across the network, making them a critical component of network management.<br>
 2. **Why are GPOs a Target?**
    * **Attractiveness to Attackers:** Due to their powerful capabilities, GPOs are attractive targets for attackers looking to escalate privileges or deploy malicious configurations across the network.
 

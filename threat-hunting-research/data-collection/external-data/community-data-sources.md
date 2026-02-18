@@ -21,8 +21,7 @@ icon: group-arrows-rotate
 
    * **Information Sharing and Analysis Organizations (ISAOs)**:
      * More flexible than ISACs, not limited to critical infrastructure sectors.
-     * Can be based on various criteria like geography, roles, or specific interests.\
-
+     * Can be based on various criteria like geography, roles, or specific interests.<br>
 3. **Benefits of Joining ISACs/ISAOs**:
    * **Risk Mitigation**: Access to shared intelligence helps in reducing risks.
    * **Rapid Response**: Quick coordination and response during emergencies.

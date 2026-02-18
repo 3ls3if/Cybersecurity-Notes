@@ -16,8 +16,7 @@ It’s also disturbingly easy for the bad guys to learn a user's MAID. They can 
 
 MAID lets advertising companies and others with your MAID track your movements. Once the MAID is obtained, criminal hackers would offer the user malicious ads based on their location, compromising the mobile device.
 
-\
-
+<br>
 
 <figure><img src="../../../../.gitbook/assets/image (230).png" alt=""><figcaption><p> Knowing a user’s MAID can provide access to their location. <a href="https://www.eurekalert.org/pub_releases/2017-10/uow-fa101817.php">University of Washington/EurekAlert</a></p></figcaption></figure>
 

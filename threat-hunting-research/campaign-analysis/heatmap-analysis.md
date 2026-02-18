@@ -39,6 +39,5 @@ icon: air-conditioner
 
 * **Identify Trends**: Quickly see periods of high and low activity.
 * **Understand Adversaries**: Determine patterns in intrusion attempts, such as increased activity during certain months.
-* **Prioritize Actions**: Use the insights to decide on the best course of action to address threats.\
-
+* **Prioritize Actions**: Use the insights to decide on the best course of action to address threats.<br>
 

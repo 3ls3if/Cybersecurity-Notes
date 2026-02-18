@@ -17,8 +17,7 @@ icon: globe
 * **Packet Capture**: Capturing packets is like having surveillance cameras on your network. You can see all the data coming in and going out. This helps in identifying any suspicious activity.
 * **Storage**: Storing all these packets can be expensive because it requires a lot of space, especially for large networks.
 * **Visibility**: Capturing packets at the network's entry and exit points (like the main gate of a building) gives you a good view of what's coming in and going out but doesn't show you movement within the network (like inside the building).
-* **Encryption**: Modern networks often use encryption to protect data, which can make it harder to see the contents of packets without special setup.\
-
+* **Encryption**: Modern networks often use encryption to protect data, which can make it harder to see the contents of packets without special setup.<br>
 
 ## Threat Hunting Using Network Flow Data
 
@@ -51,8 +50,7 @@ icon: globe
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Infrastructure Logs**: These are records of activities and events from various hardware and software in an IT environment, like routers, switches, firewalls, and endpoints. Think of them as a diary that notes everything happening in your network.\
-  \
-
+  <br>
 *   **Types of Logs**:
 
     * **Proxy Logs**: These logs capture web browsing data, including outgoing web requests and encrypted HTTPS traffic.

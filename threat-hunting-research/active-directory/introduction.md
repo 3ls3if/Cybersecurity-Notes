@@ -15,8 +15,7 @@ icon: torii-gate
 **Key Components of Active Directory**
 
 * **Active Directory Domain Services (AD DS):**\
-  This is the core service that stores directory information and manages communication between users and domains. It handles user login processes, authentication, and directory searches.\
-
+  This is the core service that stores directory information and manages communication between users and domains. It handles user login processes, authentication, and directory searches.<br>
 * **Schema:**\
   The schema defines all the objects and attributes that the directory service uses to store data. It ensures consistency in how information is stored and accessed across the entire directory.
 
@@ -24,21 +23,17 @@ icon: torii-gate
 **Hierarchical Structure of Active Directory**
 
 * **Forest:**\
-  At the top level of the AD hierarchy, a forest consists of one or more AD domains that share a common schema.\
-
+  At the top level of the AD hierarchy, a forest consists of one or more AD domains that share a common schema.<br>
 * **Domains:**\
-  Domains are logical groups of objects such as users, groups, and devices within a forest. Each domain has its own security policies and relationships with other domains.\
-
+  Domains are logical groups of objects such as users, groups, and devices within a forest. Each domain has its own security policies and relationships with other domains.<br>
 * **Organizational Units (OUs):**\
-  OUs are containers within a domain that can hold users, groups, computers, and other OUs. They help organize resources and allow administrators to define and enforce configurations and security settings through Group Policy Objects (GPOs).\
-
+  OUs are containers within a domain that can hold users, groups, computers, and other OUs. They help organize resources and allow administrators to define and enforce configurations and security settings through Group Policy Objects (GPOs).<br>
 
 \
 **Additional Features**
 
 * **Global Catalog:**\
-  The Global Catalog is a distributed data repository that contains a searchable partial representation of every object in every domain within a forest. It enables faster search and login processes across the entire forest.\
-
+  The Global Catalog is a distributed data repository that contains a searchable partial representation of every object in every domain within a forest. It enables faster search and login processes across the entire forest.<br>
 
 {% hint style="success" %}
 Understanding these components and their roles within Active Directory is crucial for managing and securing network resources effectively. In your field, mastering these concepts will help you proactively protect AD environments and respond to potential threats.
@@ -50,41 +45,33 @@ Understanding these components and their roles within Active Directory is crucia
 
 ## Active Directory Services and Roles
 
-1.  **Active Directory Domain Services (AD DS):**\
-
+1.  **Active Directory Domain Services (AD DS):**<br>
 
     * **Function:** Stores directory data and manages user and domain interactions, such as user log-ons and directory searches.
     * **Example:** When you log onto your computer at work, AD DS verifies your credentials and grants you access to network resources.
 
 
-2. **Flexible Single Master Operations (FSMO) Roles:**\
-
+2. **Flexible Single Master Operations (FSMO) Roles:**<br>
    * **Schema Master:**
      * **Function:** Manages changes to the Active Directory schema, which defines the classes of objects and attributes.
-     * **Note:** Only one domain controller in the entire forest holds this role.\
-
+     * **Note:** Only one domain controller in the entire forest holds this role.<br>
    * **Domain Naming Master:**
      * **Function:** Handles the addition and removal of domains in the forest, ensuring unique and properly registered domain names.
-     * **Note:** Only one domain naming master per forest.\
-
-   * **RID Master:**\
-
-     * **Function:** Allocates pools of relative IDs (RIDs) to other domain controllers within a domain, essential for creating new objects.\
-
+     * **Note:** Only one domain naming master per forest.<br>
+   * **RID Master:**<br>
+     * **Function:** Allocates pools of relative IDs (RIDs) to other domain controllers within a domain, essential for creating new objects.<br>
    *   **PDC Emulator:**
 
        * **Function:** Handles password changes, time synchronization, and acts as the authoritative source for group policy updates.
 
 
    * **Infrastructure Master:**
-     * **Function:** Updates references from objects in its domain to objects in other domains, ensuring accurate and consistent data.\
-
+     * **Function:** Updates references from objects in its domain to objects in other domains, ensuring accurate and consistent data.<br>
 3.  **Global Catalog:**
 
     * **Function:** A distributed directory that enables fast object searches and log-on processes across the entire forest by containing a partial replica of all objects in the directory.
 
-    \
-
+    <br>
 
 {% hint style="success" %}
 These roles and services are crucial for maintaining the integrity, efficiency, and security of Active Directory. Understanding them will help you manage and protect your network resources more effectively.
@@ -99,13 +86,11 @@ These roles and services are crucial for maintaining the integrity, efficiency, 
 1. **Authentication:**
    * **Purpose:** Verifies the identity of users and computers.
    * **Process:** When you log onto the network, Active Directory checks your credentials (username and password) to confirm your identity.
-   * **Protocol Used:** Kerberos, a secure and efficient network authentication protocol developed at MIT. It uses a ticket-based system where a trusted third party (Key Distribution Center) issues time-limited tickets to prove identities.\
-
+   * **Protocol Used:** Kerberos, a secure and efficient network authentication protocol developed at MIT. It uses a ticket-based system where a trusted third party (Key Distribution Center) issues time-limited tickets to prove identities.<br>
 2. **Authorization:**
    * **Purpose:** Determines what authenticated users are allowed to do.
    * **Process:** Assigns permissions to user accounts or groups, specifying who can access specific resources and what actions they can perform.
-   * **Tools:** Access Control Lists (ACLs) attached to objects like files, folders, and user accounts.\
-
+   * **Tools:** Access Control Lists (ACLs) attached to objects like files, folders, and user accounts.<br>
 3.  **Security Principles:**
 
     * **Components:** Users, groups, and computer accounts that can be assigned permissions.
@@ -114,15 +99,13 @@ These roles and services are crucial for maintaining the integrity, efficiency, 
 
 4. **Group Policy Objects (GPOs):**
    * **Purpose:** Enforce policies across users and computers within an AD environment.
-   * **Function:** Manage security settings, configurations, and access controls that affect how roles operate within the network.\
-
+   * **Function:** Manage security settings, configurations, and access controls that affect how roles operate within the network.<br>
 5.  **Role-Based Access Control (RBAC):**
 
     * **Purpose:** Regulates access to resources based on the roles of individual users within an organization.
     * **Process:** Often involves assigning users to groups with specific permissions, ensuring the principle of least privilege.
 
-    \
-
+    <br>
 
 {% hint style="success" %}
 Understanding these concepts will help you protect sensitive information and maintain the integrity of your network.

@@ -11,8 +11,7 @@ icon: network-wired
      * **Process Execution Metadata**: Information on processes running on endpoints.
      * **Registry Access Data**: Data related to registry objects on Windows-based endpoints.
      * **File Data**: Information on file creation/modification dates, size, type, and location.
-     * **Network Data**: Parent process information for network connections.\
-
+     * **Network Data**: Parent process information for network connections.<br>
 2.  **Network Data**:
 
     * **Firewall Logs**: Information on network traffic at the network's border.
@@ -32,8 +31,7 @@ icon: network-wired
 
 * **Context Building**: Understanding internal data sources helps in building context during incident investigations.
 * **Detection and Prevention**: By leveraging threat data from your own network, you can detect and stop threats more effectively.
-* **Collaboration**: Threat intelligence analysts need to know what data to request from other teams to build a comprehensive analysis.\
-
+* **Collaboration**: Threat intelligence analysts need to know what data to request from other teams to build a comprehensive analysis.<br>
 
 
 

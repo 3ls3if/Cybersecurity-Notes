@@ -23,8 +23,7 @@ icon: calendar-users
 
 2. **Custom Protocol on a Standard Port:**
    * Attackers might use custom protocols on standard ports to avoid detection.
-   * Example: Fake malware used a modified SSL implementation on common ports like 80, 443, and 53.\
-
+   * Example: Fake malware used a modified SSL implementation on common ports like 80, 443, and 53.<br>
 3. **Common Protocol on an Uncommon Port:**
    * Using standard protocols on uncommon ports makes the traffic stand out.
    * Example: Using DNS or HTTPS on an unusual port like 2222.
@@ -89,8 +88,7 @@ Attackers use legitimate tools and protocols to blend in with normal network act
 * **Examples:**
   * **SMB (Server Message Block):** Used for file sharing and can be exploited for lateral movement.
   * **RMM (Remote Management Tools):** Tools like Remote Desktop Protocol (RDP) or SSH.
-  * **Native System Tools:** Tools like FTP (File Transfer Protocol) and SCP (Secure Copy Protocol).\
-
+  * **Native System Tools:** Tools like FTP (File Transfer Protocol) and SCP (Secure Copy Protocol).<br>
 
 ### Strategies for Hunting Lateral Movement
 
@@ -161,8 +159,7 @@ Understanding these concepts will help you better recognize and respond to poten
 
 1. **Authorized Tools and Users:**
    * Start by identifying which RMM tools are authorized and who is expected to use them.
-   * Look for outliers or unauthorized usage.\
-
+   * Look for outliers or unauthorized usage.<br>
 2.  **Endpoint Telemetry:**
 
     * If you have access to endpoint telemetry (like EDR tools or Sysmon), set up alerts for process creation events where RMM binaries are executed.
@@ -201,8 +198,7 @@ Understanding these concepts will help you better recognize and respond to poten
 
 
 
-Understanding these concepts will help you better recognize and respond to potential threats using remote desktop software, enhancing your network security efforts.\
-
+Understanding these concepts will help you better recognize and respond to potential threats using remote desktop software, enhancing your network security efforts.<br>
 
 
 

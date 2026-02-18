@@ -12,8 +12,7 @@ icon: arrow-progress
    * **Key Points**:
      * Run the malware in your environment.
      * Use Dumpit to capture the memory.
-     * For large RAM systems, use compression options to speed up the process.\
-
+     * For large RAM systems, use compression options to speed up the process.<br>
 2. **Memory Analysis**:
    * **What it is**: Analyzing the captured memory to extract malware artifacts.
    * **Steps**:

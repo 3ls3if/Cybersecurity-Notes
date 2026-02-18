@@ -25,8 +25,7 @@ icon: republican
    * **Ransomware Tracker**: Tracks ransomware-related domains, IPs, and URLs.
    * **OpenPhish**: Offers feeds on phishing campaigns.
    * **I-Blocklist**: Maintains lists of IP addresses related to various categories like web attacks and proxies.
-   * **Cyber Cure Platform**: Provides lists of infected IPs, malware URLs, and hash files.\
-
+   * **Cyber Cure Platform**: Provides lists of infected IPs, malware URLs, and hash files.<br>
 4. **Feed Aggregators**:
    * **LIMO**: Aggregates multiple threat intelligence feeds and is compatible with STIX and TAXII protocols.
    * **Hail A TAXII**: Another feed aggregator that collects open-source threat intelligence feeds in STIX format.
@@ -39,16 +38,14 @@ icon: republican
 
 1. **Public Threat Intelligence Platforms**:
    * These platforms organize multiple threat intelligence feeds into a single stream, making it easier to manage and utilize the data.
-   * They can be used for enrichment, adding more context to existing data.\
-
+   * They can be used for enrichment, adding more context to existing data.<br>
 2. **Examples of Public Threat Intelligence Platforms**:
    * **STAXX by Anomali**: A platform that aggregates threat intelligence feeds.
    * **MISP**: An open-source threat intelligence platform.
    * **CRITs**: Another open-source platform for threat intelligence.
    * **OTX (Open Threat Exchange) by Alien Labs**: A community-driven platform for sharing threat intelligence.
    * **OpenCTI**: An open-source platform for managing cyber threat intelligence.
-   * **CIF (Collective Intelligence Framework) by CSIRT Gadget**: A platform for sharing and managing threat intelligence.\
-
+   * **CIF (Collective Intelligence Framework) by CSIRT Gadget**: A platform for sharing and managing threat intelligence.<br>
 3.  **Benefits**:
 
     * **Enrichment**: These platforms can add valuable context to threat data, making it more actionable.

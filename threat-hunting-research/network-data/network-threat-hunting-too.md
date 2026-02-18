@@ -6,8 +6,7 @@ icon: toolbox
 
 ## SIEM for Threat Hunting
 
-* **SIEM (Security Information and Event Management)**: Think of SIEM as a central security control room that collects and analyzes log data from various parts of your network.\
-
+* **SIEM (Security Information and Event Management)**: Think of SIEM as a central security control room that collects and analyzes log data from various parts of your network.<br>
 * **Log Data**: This includes information from firewalls, routers, DNS, endpoint logs, and more. It's like gathering clues from different sources to solve a mystery.
 
 **Key Functions of SIEM**:
@@ -24,20 +23,15 @@ icon: toolbox
 
 ## Wireshark for Threat Hunting
 
-* **Wireshark**: It's a free, open-source tool used for analyzing network packets. Think of it as a magnifying glass that lets you see the details of data traveling over your network.\
-
-* **Packet Analysis**: Wireshark captures and analyzes packets (small chunks of data) sent over the network. Imagine trying to read 185 lines of text per second; Wireshark helps you make sense of this by organizing and visualizing the data.\
-
+* **Wireshark**: It's a free, open-source tool used for analyzing network packets. Think of it as a magnifying glass that lets you see the details of data traveling over your network.<br>
+* **Packet Analysis**: Wireshark captures and analyzes packets (small chunks of data) sent over the network. Imagine trying to read 185 lines of text per second; Wireshark helps you make sense of this by organizing and visualizing the data.<br>
 * **Protocol Dissectors**: These are like translators for different network protocols (rules for data exchange). They break down packets into understandable parts, allowing you to create filters to focus on specific types of traffic. For example, you can filter HTTP packets to see only those with an IP address instead of a domain name.
 
 
 
-* **Configuration Profiles**: These are customizable views in Wireshark. You can switch between different profiles based on what you're looking for. For instance, you might have one profile for DNS traffic and another for HTTP traffic, each with tailored filters and columns.\
-
-* **Protocol Hierarchy**: This feature shows a tree view of all protocols in the captured data, with statistical values for each. It's like a summary that helps you narrow down your focus. If you see a lot of SMB traffic, you can switch to analyzing that specific protocol.\
-
-* **Endpoint Statistics**: This feature lets you see conversations between two endpoints (devices) on the network. It's useful for identifying which devices are communicating the most, helping you spot unusual activity.\
-
+* **Configuration Profiles**: These are customizable views in Wireshark. You can switch between different profiles based on what you're looking for. For instance, you might have one profile for DNS traffic and another for HTTP traffic, each with tailored filters and columns.<br>
+* **Protocol Hierarchy**: This feature shows a tree view of all protocols in the captured data, with statistical values for each. It's like a summary that helps you narrow down your focus. If you see a lot of SMB traffic, you can switch to analyzing that specific protocol.<br>
+* **Endpoint Statistics**: This feature lets you see conversations between two endpoints (devices) on the network. It's useful for identifying which devices are communicating the most, helping you spot unusual activity.<br>
 
 ## IDS or IPS for Threat Hunting
 
@@ -126,8 +120,7 @@ By leveraging Zeek's capabilities, you can proactively hunt for threats and impr
 
 **Practical Application**:
 
-* **Initial Access Detection**:\
-
+* **Initial Access Detection**:<br>
   * Focus on download activity from external websites.
   * Examine HTTP logs where the `RESP_FUIDS` field is not empty (indicates file transfers).
   * Use MIME types field to identify potential threats (e.g., files disguised as images but are executables).

@@ -25,9 +25,8 @@ Since “**$J**” has records of all changes on files and folders in a volume i
 * [https://github.com/jschicht/UsnJrnl2Csv/blob/master/UsnJrnl2Csv64.exe](https://github.com/jschicht/UsnJrnl2Csv/blob/master/UsnJrnl2Csv64.exe)
 * [https://github.com/EricZimmerman/MFTECmd](https://github.com/EricZimmerman/MFTECmd)
 
-[MFTECmd](https://github.com/EricZimmerman/MFTECmd) Usage\
-
-
+[MFTECmd](https://github.com/EricZimmerman/MFTECmd) Usage<br>
+-------------------------------------------------------------
 
 <figure><img src="https://images.squarespace-cdn.com/content/v1/60d08f10063a3d3fb6875391/65f2a68a-fa09-48aa-92ef-bbef7101cc61/Picture2.png" alt=""><figcaption><p>Using “MFTECmd” to parse the “$J” data stream</p></figcaption></figure>
 

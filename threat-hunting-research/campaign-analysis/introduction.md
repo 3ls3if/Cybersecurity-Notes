@@ -35,6 +35,5 @@ icon: lightbulb
 **Importance of Campaign Analysis**
 
 * Helps anticipate future intrusions.
-* Even unsuccessful intrusions are useful as adversaries may try them again.\
-
+* Even unsuccessful intrusions are useful as adversaries may try them again.<br>
 

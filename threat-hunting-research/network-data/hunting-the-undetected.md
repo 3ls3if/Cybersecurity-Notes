@@ -66,15 +66,13 @@ By regularly conducting threat hunts based on these baselines, you can proactive
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Least Frequency Analysis (LFO):** This technique helps in spotting unusual or rare items in large sets of data. It focuses on finding things that appear the least often, as these are more likely to be suspicious.\
-  \
-
+  <br>
 * **How It Works:** Imagine you have a list of items that show up in your network. Most common items are usually safe and appear frequently. Least frequency analysis brings the rare items to the forefront, making it easier to spot potential threats.
 
 
 
 * **Example:** Think of it like looking at a crowd of people. Most people are wearing common clothes, but if you see someone in a unique costume, they stand out. Similarly, in network data, the rare items (like unusual files or activities) stand out and are worth investigating.\
-  \
-
+  <br>
 * **Application:** This method can be used to analyze various data points like user agents, network ports, DNS queries, and payload sizes to identify anomalies and potential threats.
 
 
@@ -89,12 +87,9 @@ By focusing on the least common occurrences, you can efficiently sift through la
 
 ### Steps to Create a Hypothesis
 
-1. **Read Industry Reports and Research Papers:**\
-
-   * Gain insights from trusted sources like industry reports, research papers, blogs, or social media updates from thought leaders. These sources provide valuable information on current threats and trends.\
-
-2.  **Use Mind Maps:**\
-
+1. **Read Industry Reports and Research Papers:**<br>
+   * Gain insights from trusted sources like industry reports, research papers, blogs, or social media updates from thought leaders. These sources provide valuable information on current threats and trends.<br>
+2.  **Use Mind Maps:**<br>
 
     * Start with a central idea and brainstorm related topics by creating branches. This helps in generating new ideas and exploring different angles.
 

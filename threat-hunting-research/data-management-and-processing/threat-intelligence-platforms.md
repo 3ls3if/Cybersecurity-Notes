@@ -31,6 +31,5 @@ icon: layer-group
 * **MISP (Malware Information Sharing Platform)**: An open-source platform for sharing and correlating indicators of compromise.
 * **CRITS (Collaborative Research into Threats)**: An open-source repository for storing and discovering threat data.
 * **ThreatConnect**: Offers both free and paid platforms with features like orchestration and customizable dashboards.
-* **STAXX**: An open-source platform compatible with STIX and TAXII standards, providing threat trends and enrichment.\
-
+* **STAXX**: An open-source platform compatible with STIX and TAXII standards, providing threat trends and enrichment.<br>
 

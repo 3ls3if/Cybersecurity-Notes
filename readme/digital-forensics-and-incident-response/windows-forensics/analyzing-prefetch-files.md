@@ -41,12 +41,11 @@ PECmd.exe -d "C:\Windows\Prefetch"
 
 Like PECmd, WinPrefetchView can open and review the individual contents of a .pf or pull in an entire prefetch directory.
 
-\
-
+<br>
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-WinPrefetchView allows for the quick location and review of specific .pf files. However, it is limited in its report export functions allowing only HTML output. WinPrefetchView can be downloaded at [https://www.nirsoft.net/utils/win\_prefetch\_view.html](https://www.nirsoft.net/utils/win\_prefetch\_view.html).
+WinPrefetchView allows for the quick location and review of specific .pf files. However, it is limited in its report export functions allowing only HTML output. WinPrefetchView can be downloaded at [https://www.nirsoft.net/utils/win\_prefetch\_view.html](https://www.nirsoft.net/utils/win_prefetch_view.html).
 
 
 

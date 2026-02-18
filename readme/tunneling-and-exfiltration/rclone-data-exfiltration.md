@@ -20,13 +20,13 @@ Rclone requires a configuration to be created before it can connect to MEGA (or 
 
 The table below breaks down the command line profile creation.
 
-| config | Initiates the configuration file being created                                            |
-| ------ | ----------------------------------------------------------------------------------------- |
-| create | Creation of configuration file                                                            |
-| remote | Name given to the remote profile being created (name can vary)                            |
-| mega   | Cloud storage provider                                                                    |
-| user   | Username for the MEGA.io account                                                          |
-| pass   | Password for the MEGA.io account [obscured](https://rclone.org/commands/rclone\_obscure/) |
+| config | Initiates the configuration file being created                                           |
+| ------ | ---------------------------------------------------------------------------------------- |
+| create | Creation of configuration file                                                           |
+| remote | Name given to the remote profile being created (name can vary)                           |
+| mega   | Cloud storage provider                                                                   |
+| user   | Username for the MEGA.io account                                                         |
+| pass   | Password for the MEGA.io account [obscured](https://rclone.org/commands/rclone_obscure/) |
 
 
 
@@ -75,8 +75,7 @@ The following Sigma rules has been created to aid in the detection of Rclone.
 | Rclone config file creation                     | <p>This Sigma rule will detect the creation of the Rclone configuration file. The Sysmon configuration must include the following for the FileCreate rule group.<br><br><code>rclone</code></p> |
 | DNS Query for MEGA.io Upload Domain             | This final rule will detect DNS queries for subdomains of `userstorage.mega.co[.]nz.`                                                                                                           |
 
-\
-
+<br>
 
 
 
@@ -87,7 +86,7 @@ The following Sigma rules has been created to aid in the detection of Rclone.
 * [https://www.nccgroup.com/us/research-blog/detecting-rclone-an-effective-tool-for-exfiltration/](https://www.nccgroup.com/us/research-blog/detecting-rclone-an-effective-tool-for-exfiltration/)
 * [https://redcanary.com/blog/threat-detection/rclone-mega-extortion/](https://redcanary.com/blog/threat-detection/rclone-mega-extortion/)
 * [https://attack.mitre.org/software/S1040/](https://attack.mitre.org/software/S1040/)
-* [https://rclone.org/commands/rclone\_obscure/](https://rclone.org/commands/rclone\_obscure/)
+* [https://rclone.org/commands/rclone\_obscure/](https://rclone.org/commands/rclone_obscure/)
 
 
 

@@ -6,8 +6,7 @@ A victim transaction trades a crypto-currency asset X (ex: ETH, DAI, SAI, VERI) 
 
 Because of this high purchase of asset Y, its price goes up, and Victim buys at a higher price of asset Y, then the attacker sells at a higher price.
 
-\
-
+<br>
 
 
 

@@ -39,6 +39,5 @@ icon: audio-description
 
 * **Graph Visualization**: Useful for visualizing relationships and understanding the context of data.
 * **Combining Data**: Aggregates data from different sources to identify suspicious patterns and behaviors.
-* **User-Friendly**: Tools like Maltego and Linkurious make it easier for users without programming skills to interact with and analyze data.\
-
+* **User-Friendly**: Tools like Maltego and Linkurious make it easier for users without programming skills to interact with and analyze data.<br>
 

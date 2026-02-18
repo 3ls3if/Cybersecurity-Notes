@@ -7,8 +7,7 @@ icon: buoy
 ## Tactical Intelligence
 
 * **Tactical Intelligence**: Also known as technical intelligence, it is short-term and focuses on immediate threats. It includes information like Indicators of Compromise (IOCs) such as file hashes, malicious domains, and IP addresses.
-* **Purpose**: The main goal is to provide actionable information quickly to those who need it, helping in making rapid decisions to block or allow actions and sometimes shut down threats.\
-
+* **Purpose**: The main goal is to provide actionable information quickly to those who need it, helping in making rapid decisions to block or allow actions and sometimes shut down threats.<br>
 *   **Benefits**:
 
     * Provides context and relevance to large amounts of data.
@@ -23,6 +22,5 @@ icon: buoy
     * Needs timely and high-quality sources to avoid false positives.
 
 
-* **Audience**: Intended for technical personnel like system architects, administrators, and security staff who are directly involved in defending the organization.\
-
+* **Audience**: Intended for technical personnel like system architects, administrators, and security staff who are directly involved in defending the organization.<br>
 

@@ -35,6 +35,5 @@ Analysts understand the sequence of events and the relationships between the adv
 * **Exploitation**: The victim clicks the link, and the malware is executed.
 * **Installation**: The malware installs itself on the victim's system.
 * **C2**: The malware sets up a command and control channel.
-* **Actions on Objectives**: The malware exfiltrates data from the victim's system.\
-
+* **Actions on Objectives**: The malware exfiltrates data from the victim's system.<br>
 

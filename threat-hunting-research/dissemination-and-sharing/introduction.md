@@ -6,8 +6,7 @@ icon: lightbulb
 
 ## Dissemination and Sharing
 
-* **Dissemination**: This means distributing the completed intelligence reports to the right people who need them.\
-
+* **Dissemination**: This means distributing the completed intelligence reports to the right people who need them.<br>
 *   **Types of Intelligence**:
 
     * **Strategic Intelligence**: For senior decision-makers, helps in long-term planning.
@@ -15,7 +14,6 @@ icon: lightbulb
     * **Tactical Intelligence**: For immediate actions, helps in responding to threats quickly.
 
 
-* **Sharing**: Collaboration and sharing threat intelligence with peers and other organizations can improve defense against cyber threats.\
-
+* **Sharing**: Collaboration and sharing threat intelligence with peers and other organizations can improve defense against cyber threats.<br>
 * **Feedback**: Collecting feedback on the intelligence reports helps improve future reports and intelligence operations.
 

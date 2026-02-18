@@ -10,8 +10,7 @@ icon: atom-simple
 
 * **HTTP (Hypertext Transfer Protocol):**
   * An older protocol used for transferring data over the web.
-  * Data is sent in plain text, making it readable by anyone who intercepts it.\
-
+  * Data is sent in plain text, making it readable by anyone who intercepts it.<br>
 *   **HTTPS (Hypertext Transfer Protocol Secure):**
 
     * An encrypted version of HTTP.
@@ -58,8 +57,7 @@ icon: atom-simple
 
 * **GeoIP Information:**
   * Identifying the geographic location of web servers.
-  * **Hunting Approach:** Determine if traffic is going to unexpected locations. For example, a dentist's office in Los Angeles seeing traffic to China might be suspicious.\
-
+  * **Hunting Approach:** Determine if traffic is going to unexpected locations. For example, a dentist's office in Los Angeles seeing traffic to China might be suspicious.<br>
 
 ### Practical Application
 

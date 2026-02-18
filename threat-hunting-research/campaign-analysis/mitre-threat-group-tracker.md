@@ -46,6 +46,5 @@ icon: stackpath
 
 * **Start Small**: Begin with a single threat group and analyze their behaviors using the ATT\&CK framework.
 * **Leverage Tools**: Use products and tools that map to ATT\&CK to enhance your analysis.
-* **Collaborate**: Work with other analysts and defenders to compare and contrast threat groups and improve your defense strategies.\
-
+* **Collaborate**: Work with other analysts and defenders to compare and contrast threat groups and improve your defense strategies.<br>
 
