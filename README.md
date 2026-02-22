@@ -16,7 +16,7 @@ coverY: 0
 
 ## Author's Publishes
 
-[**Pentesting Book**](https://pentest.whitehatlabs.tech/)
+[**Pentesting Book**](https://r0han.gitbook.io/pentest)
 
 [**GitHub**](https://github.com/3ls3if)
 
